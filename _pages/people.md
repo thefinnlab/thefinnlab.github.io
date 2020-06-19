@@ -2,7 +2,6 @@
 layout: archive
 title: "People"
 permalink: /people/
-colorlinks: true
 author_profile: true
 ---
 
