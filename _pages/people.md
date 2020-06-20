@@ -7,6 +7,7 @@ author_profile: true
 
 <html>
 <body>
+<font size="10">
       <table style="border: none">
          <tr style="border: none">
             <td style="border: none"><img src="https://thefinnlab.github.io/images/esf_headshot2.jpg"></td>
