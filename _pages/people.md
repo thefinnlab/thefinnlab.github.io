@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 
-<font size="10">
-	<style>
+<style>
 table, th, td {
   border: 0px;
 }
@@ -15,6 +14,7 @@ table, th, td {
 th, td {
   padding: 10px;
 }
+
 </style>
       <table border = "0">
          <tr>
