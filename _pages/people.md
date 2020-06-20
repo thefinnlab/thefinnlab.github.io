@@ -7,7 +7,7 @@ author_profile: true
 
 <html>
 <body>
-      <table border = "0">
+      <table border = 0>
          <tr>
             <td>picture</td>
 	    <td>
@@ -34,5 +34,3 @@ author_profile: true
 	    </td>
          </tr>
       </table>
-</body>
-</html>
