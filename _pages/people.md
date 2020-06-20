@@ -7,15 +7,7 @@ author_profile: true
 
 <html>
 <body>
-      <table border = 0>
-<style>
-table, th, td {
-  border: 0px solid black;
-}
-
-th, td {
-  padding: 10px;
-}
+      <table style="border: 0px">
          <tr>
             <td>picture</td>
 	    <td>
