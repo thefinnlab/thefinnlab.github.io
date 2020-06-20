@@ -6,16 +6,6 @@ author_profile: true
 ---
 
 
-<style>
-table, th, td {
-  border: 0px;
-}
-
-th, td {
-  padding: 10px;
-}
-
-</style>
       <table border = "0">
          <tr>
             <td>picture</td>
