@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 
-
+<html>
       <table border = "0">
          <tr>
             <td>picture</td>
@@ -41,3 +41,4 @@ author_profile: true
 	 
 	 
       </table>
+</html>
