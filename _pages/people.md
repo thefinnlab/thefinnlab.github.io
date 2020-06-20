@@ -5,7 +5,9 @@ permalink: /people/
 author_profile: true
 ---
 
-<style>
+
+<font size="10">
+	<style>
 table, th, td {
   border: 0px;
 }
@@ -14,8 +16,6 @@ th, td {
   padding: 10px;
 }
 </style>
-
-<font size="10">
       <table border = "0">
          <tr>
             <td>picture</td>
