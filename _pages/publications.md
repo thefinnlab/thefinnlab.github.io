@@ -73,3 +73,16 @@ Rosenberg MD\*, **Finn ES**\*, Scheinost D, Shen X, Papademetris X, Constable RT
 Powers III AR, Ganscos MG, **Finn ES**, Morgan PT, Corlett PR. (2015). Ketamine-induced hallucinations. *Psychopathology*, 48 (6): 376-385. [[pdf]](https://esfinn.github.io/files/Powers_Psychopathol2015.pdf)
 
 Garrison KA, Scheinost D, **Finn ES**, Shen X, Constable RT. (2015) The (in)stability of functional brain network measures across thresholds. *NeuroImage*, 118: 651-661. [[pdf]](https://esfinn.github.io/files/Garrison_NeuroImage2015.pdf)
+
+Rosenberg MD, **Finn ES**, Constable RT, Chun MM. (2015) Predicting moment-to-moment attentional state. *NeuroImage*, 114: 249-256. [[pdf]](https://esfinn.github.io/files/Rosenberg_NeuroImage2015.pdf)
+
+Scheinost D, **Finn ES**, Tokoglu F, Shen X, Papademetris X, Hampson M, Constable RT. (2015) Sex differences in normal age trajectories of functional brain networks. *Human Brain Mapping*, 36(4): 1524-1535. [[pdf]](https://esfinn.github.io/files/Scheinost_HBM2015.pdf)
+
+2014 and earlier
+---
+---
+**Finn ES**, Shen X, Holahan JM, Scheinost D, Lacadie C, Papademetris X, Shaywitz SE, Shaywitz BA, Constable RT. (2014) Disruption of functional networks in dyslexia: A whole-brain, data-driven analysis of connectivity. *Biological Psychiatry*, 76(5): 397-404. [[pdf]](https://esfinn.github.io/files/Finn_BiolPsych2015.pdf)
+
+Scheinost D, Shen X, **Finn ES**, Sinha R, Constable RT, Papademetris X. (2014) Coupled intrinsic connectivity distribution analysis: A method for exploratory connectivity analysis of paired fMRI data. *PLoS ONE*, 9(3): e93544. [[pdf]](https://esfinn.github.io/files/Scheinost_PLoSONE2014.pdf)
+
+Constable RT, Scheinost D, **Finn ES**, Shen X, Hampson M, Winstanley FS, Spencer DD, Papademetris X. (2013) Potential use and challenges of functional connectivity mapping in intractable epilepsy. *Frontiers in Neurology*, 4 May: 39. [[pdf]](https://esfinn.github.io/files/Constable_FrontNeurol2013.pdf)
