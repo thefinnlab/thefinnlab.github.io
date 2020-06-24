@@ -25,7 +25,7 @@ Rosenberg MD, Scheinost D, Greene AS, Avery EW, Kwon YH, **Finn ES**, Ramani R, 
 2019
 ---
 ---
-Chen G, Taylor PA, Qu X, Molfese PJ, Bandettini PA, Cox RW, **Finn ES**. (2019). Untangling the Relatedness among Correlations, Part III: Inter-Subject Correlation Analysis through Bayesian Multilevel Modeling for Naturalistic Scanning. *NeuroImage*, 116474. [[pdf]](https://thefinnlab.github.io/files/Chen_NeuroImage2019.pdf)
+Chen G, Taylor PA, Qu X, Molfese PJ, Bandettini PA, Cox RW, **Finn ES**. (2019). Untangling the Relatedness among Correlations, Part III: Inter-Subject Correlation Analysis through Bayesian Multilevel Modeling for Naturalistic Scanning. *NeuroImage*, 116474. [[pdf]](https://thefinnlab.github.io/files/Chen_NeuroImage2020.pdf)
 
 **Finn ES**, Huber L, Jangraw DC, Molfese PJ, Bandettini PA. (2019). Layer-dependent activity in human prefrontal cortex during working memory. *Nature Neuroscience*, 22: 1687–1695. [[pdf]](https://esfinn.github.io/files/Finn_NatNeuro2019.pdf)
 
