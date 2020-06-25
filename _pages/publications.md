@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-Goyal N, Moraczewski D, Bandettini PA, **Finn ES**, Thomas A. Computationally replicating the Smith et al. (2015) positive-negative mode linking functional connectivity and subject measures. *bioRxiv*, doi: https://doi.org/10.1101/2020.04.23.058313
+Goyal N, Moraczewski D, Bandettini PA, **Finn ES**, Thomas A. Computationally replicating the Smith et al. (2015) positive-negative mode linking functional connectivity and subject measures. *bioRxiv*, doi: [https://doi.org/10.1101/2020.04.23.058313](https://doi.org/10.1101/2020.04.23.058313)
 
 
 ## Peer-reviewed publications
