@@ -2,6 +2,9 @@
 main:
   - title: "People"
     url: /people/
+    
+  - title: "People2"
+    url: /people2/
 
   - title: "Research"
     url: /research/    
