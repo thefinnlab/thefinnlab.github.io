@@ -15,9 +15,6 @@ author_profile: true
 <html>
 <head>
 <style>
-img {
-  width: 100%;
-}
 <body>
 <font size="5">
       <table style="border: none">
