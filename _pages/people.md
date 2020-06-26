@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "People"
-permalink: /people/
+permalink: /people_md/
 author_profile: true
 ---
 
