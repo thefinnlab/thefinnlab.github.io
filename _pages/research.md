@@ -10,7 +10,6 @@ author_profile: true
 Individuals often interpret the same information in different ways. Do [certain personality traits](https://www.nature.com/articles/s41467-018-04387-2) bias individuals toward one interpretation or another? How are divergences in interpretation reflected in brain activity before, during and after exposure to ambiguous information? Can we use ambiguity as a feature rather than a bug, to tease out meaningful individual variation in both brain and behavior? In this line of work, we combine novel experimental paradigms (e.g., bespoke naturalistic tasks) with [innovative approaches](https://www.sciencedirect.com/science/article/pii/S1053811920303153) to analyzing both neural and behavioral data to investigate and model the processes by which individuals appraise complex information in light of their intrinsic tendencies and prior experiences.
 <br>
 <br>
-<br>
 
 ### How do individual brains differ in their functional organization, and how does this relate to behavior?
 <img align="left" src="https://thefinnlab.github.io/images/obspredgf.png" width="225 px" style="padding: 10px">
