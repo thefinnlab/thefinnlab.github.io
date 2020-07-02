@@ -4,8 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-<p style="text-align: justify">
   
 ### How -- and why -- do individuals arrive at different interpretations of the same information?
 <img align="right" src="https://thefinnlab.github.io/images/paranoiamatrix.png" width="400 px">
@@ -20,7 +18,7 @@ Our previous work has shown that patterns of functional brain connectivity are u
 </p>
 
 ### Advancing methods
-<p style="text-align: justify">
 <img align="right" src="https://thefinnlab.github.io/images/layerspecific.png" width="300 px">
+<p style="text-align: justify">
 We have a keen interest in developing new methods to help us answer these exciting questions. As one recent example, we [developed](https://www.nature.com/articles/nn.4135) and continue to help refine the [Connectome-based Predictive Modeling (CPM) method](https://www.nature.com/articles/nprot.2016.178) for predicting behavior from functional connectivity. As another example, together with collaborators, we are also helping to advance acquisition and analysis methods for [layer-specific fMRI](https://www.sciencedirect.com/science/article/pii/S0301008220300903), especially for [cognitive applications in higher-order association regions of the brain](https://www.nature.com/articles/s41593-019-0487-z.pdf?origin=ppub). 
 </p>
