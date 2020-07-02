@@ -13,7 +13,7 @@ Individuals often interpret the same information in different ways. Do [certain 
 <br>
 
 ### How do individual brains differ in their functional organization, and how does this relate to behavior?
-<img align="left" src="https://thefinnlab.github.io/images/obspredgf.png" width="250 px" style="padding: 10px">
+<img align="left" src="https://thefinnlab.github.io/images/obspredgf.png" width="225 px" style="padding: 10px">
 Our previous work has shown that patterns of functional brain connectivity are unique enough across subjects and stable enough within subjects to serve as a ["fingerprint"](https://www.nature.com/articles/nn.4135) that can identify an individual from a large group. Moreover, features of these connectivity fingerprints predict high-level behaviors such as fluid intelligence and [sustained attention](https://www.nature.com/articles/nn.4179). In ongoing work, we are characterizing how functional brain organization is modulated by both [trait- and state-level factors](https://www.sciencedirect.com/science/article/pii/S1053811917302872), with the ultimate goal of developing neuroimaging-based biomarkers for [real-world applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5067145/).
 <br>
 <br>
