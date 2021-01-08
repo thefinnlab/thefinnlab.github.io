@@ -11,12 +11,15 @@ author_profile: true
 
 Goyal N, Moraczewski D, Bandettini PA, **Finn ES**, Thomas A. Computationally replicating the Smith et al. (2015) positive-negative mode linking functional connectivity and subject measures. *bioRxiv*, doi: [https://doi.org/10.1101/2020.04.23.058313](https://doi.org/10.1101/2020.04.23.058313)
 
+Song H, **Finn ES**, Rosenberg MD. Neural signatures of attentional engagement during narratives and its consequences for event memory. *bioRxiv*, doi: [https://doi.org/10.1101/2020.08.26.266320](https://doi.org/10.1101/2020.08.26.266320)
 
 ## Peer-reviewed publications
 
 2020
 ---
 ---
+**Finn ES**, Huber L, Bandettini PA. (2020). Higher and deeper: Bringing layer fMRI to association cortex. *Progress in Neurobiology*, 101930. [[pdf]](https://thefinnlab.github.io/files/Finn_ProgNeurobiol2020.pdf)
+
 Huber L, **Finn ES**, Chai Y, Goebel R, Stirnberg R, Stöcker T, Marrett S, Uludag K, Kim SG, Han S, Bandettini PA, Poser BA. (2020). Layer-dependent functional connectivity methods. *Progress in Neurobiology*, 101835. [[pdf]](https://thefinnlab.github.io/files/Huber_ProgNeurobiol2020.pdf)
 
 **Finn ES**, Glerean E, Khojandi AY, Nielson D, Molfese PJ, Handwerker DA, Bandettini PA. (2020). Idiosynchrony: From shared responses to individual differences during naturalistic neuroimaging. *NeuroImage*, 116828. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImage2020.pdf)
