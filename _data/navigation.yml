@@ -13,4 +13,4 @@ main:
     url: /positions/ 
     
   - title: "Diversity and Outreach"
-    url: /diversity/
+    url: /_pages/diversity.md
