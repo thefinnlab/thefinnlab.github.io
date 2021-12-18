@@ -11,6 +11,12 @@ Grall C, Finn ES. Leveraging the power of media to drive cognition: A media-info
 
 Baek EC, Hyon R, Lopez K, Finn ES, Porter MA, Parkinson C. Popular individuals process the world in particularly normative ways. *arXiv*, doi: [arXiv:2106.02726](http://arxiv-export-lb.library.cornell.edu/abs/2106.02726)
 
+## Recent editorials
+
+Botch TL, Robertson CE, Finn ES. (2021). A deeper look at vision and memory. *Nature Neuroscience*. [[pdf]](https://thefinnlab.github.io/files/Botch_NN2021.pdf)
+
+Finn ES, Glerean E, Hasson U, Vanderwal T. (2021). Naturalistic Imaging: The use of ecologically valid conditions to study brain function. *NeuroImage*, 118776-118776. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImageSI2021.pdf)
+
 ## Peer-reviewed publications
 
 2021
