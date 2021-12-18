@@ -9,30 +9,26 @@ author_profile: true
 
 Grall C, Finn ES. Leveraging the power of media to drive cognition: A media-informed approach to naturalistic neuroscience. *PsyArXiv*, doi: [10.31234/osf.io/c8z9t](10.31234/osf.io/c8z9t)
 
-Popular individuals process the world in particularly normative ways
-
-
-
-
+Baek EC, Hyon R, Lopez K, Finn ES, Porter MA, Parkinson C. Popular individuals process the world in particularly normative ways. *arXiv*, doi: [arXiv:2106.02726](arXiv:2106.02726)
 
 ## Peer-reviewed publications
 
 2021
 ---
 ---
-Finn ES. (2021). Is it time to put rest to rest? *Trends in Cognitive Sciences*, 25 (12): 1021-1032. [[pdf]]
+Finn ES. (2021). Is it time to put rest to rest? *Trends in Cognitive Sciences*, 25 (12): 1021-1032. [[pdf]](https://thefinnlab.github.io/files/Finn_TiCS2021.pdf)
 
-Finn ES, Bandettini PA. (2021). Movie-watching outperforms rest for functional connectivity-based prediction of behavior. *NeuroImage*, 235: 117963. [[pdf]]
+Finn ES, Bandettini PA. (2021). Movie-watching outperforms rest for functional connectivity-based prediction of behavior. *NeuroImage*, 235: 117963. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImage2021.pdf)
 
-Finn ES, Rosenberg MD. Beyond fingerprinting: Choosing predictive connectomes over reliable connectomes. *NeuroImage*, 118254. [[pdf]]
+Finn ES, Rosenberg MD. Beyond fingerprinting: Choosing predictive connectomes over reliable connectomes. *NeuroImage*, 118254. [[pdf]](https://thefinnlab.github.io/files/FinnRosenberg_NeuroImage2021.pdf)
 
-Song H, Finn ES, Rosenberg MD. (2021). Neural signatures of attentional engagement during narratives and its consequences for event memory. *PNAS*, 118 (33). [[pdf]]
+Song H, Finn ES, Rosenberg MD. (2021). Neural signatures of attentional engagement during narratives and its consequences for event memory. *PNAS*, 118 (33). [[pdf]](https://thefinnlab.github.io/files/Song_PNAS2021.pdf)
 
-Bandettini PA, Finn ES, Huber L. (2021). Challenges and opportunities of mesoscopic brain mapping with fMRI. *Current Opinion in Behavioral Sciences*, 40: 189-200. [[pdf]]
+Bandettini PA, Finn ES, Huber L. (2021). Challenges and opportunities of mesoscopic brain mapping with fMRI. *Current Opinion in Behavioral Sciences*, 40: 189-200. [[pdf]](https://thefinnlab.github.io/files/Bandettini_CurrOpinBehavSci2021.pdf)
 
-Scheinost D, Dadashkarimi J, Finn ES, Wambach CG, MacGillivray C, Roule AL, Niendam TA, Pine DS, Brotman MA, Leibenluft E, & Tseng W-L. (2021). Functional connectivity during frustration: a preliminary study of predictive modeling of irritability in youth. *Neuropsychopharmacology* 46 (7), 1300-1306. [[pdf]]
+Scheinost D, Dadashkarimi J, Finn ES, Wambach CG, MacGillivray C, Roule AL, Niendam TA, Pine DS, Brotman MA, Leibenluft E, & Tseng W-L. (2021). Functional connectivity during frustration: a preliminary study of predictive modeling of irritability in youth. *Neuropsychopharmacology* 46 (7), 1300-1306. [[pdf]](https://thefinnlab.github.io/files/Scheinost_NPP2021.pdf)
 
-Goyal N, Moraczewski D, Bandettini PA, Finn ES, Thomas A. Computationally replicating the Smith et al. (2015) positive-negative mode linking functional connectivity and subject measures. *bioRxiv*, doi: [https://doi.org/10.1101/2020.04.23.058313](https://doi.org/10.1101/2020.04.23.058313)
+Goyal N, Moraczewski D, Bandettini PA, Finn ES, Thomas A. The positive-negative mode link between brain connectivity, demographics, and behavior: A pre-registered, replication of Smith et al. (2015). *Royal Society Open Science*, in press.
 
 2020
 ---
