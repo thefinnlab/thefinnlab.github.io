@@ -7,9 +7,9 @@ author_profile: true
 
 ## Preprints
 
-Grall C, Finn ES. Leveraging the power of media to drive cognition: A media-informed approach to naturalistic neuroscience. *PsyArXiv*, doi: [10.31234/osf.io/c8z9t](10.31234/osf.io/c8z9t)
+Grall C, Finn ES. Leveraging the power of media to drive cognition: A media-informed approach to naturalistic neuroscience. *PsyArXiv*, doi: [10.31234/osf.io/c8z9t](https://psyarxiv.com/c8z9t)
 
-Baek EC, Hyon R, Lopez K, Finn ES, Porter MA, Parkinson C. Popular individuals process the world in particularly normative ways. *arXiv*, doi: [arXiv:2106.02726](arXiv:2106.02726)
+Baek EC, Hyon R, Lopez K, Finn ES, Porter MA, Parkinson C. Popular individuals process the world in particularly normative ways. *arXiv*, doi: [arXiv:2106.02726](http://arxiv-export-lb.library.cornell.edu/abs/2106.02726)
 
 ## Peer-reviewed publications
 
