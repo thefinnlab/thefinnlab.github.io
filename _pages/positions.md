@@ -11,4 +11,4 @@ author_profile: true
 
 **Full-time research assistants**: We are not actively recruiting full-time RAs/lab managers at this time, but please watch this space for potential opportunities.
 
-**Undergraduate part-time research assistants**: Interested undergrads may download and fill out this [application form](https://docs.google.com/document/d/1wlPxIw6OAbRHHOJvx1yPzkhXAGOu-2bjb6JHo-aTsBE/edit?usp=sharing) and email it to Josie ([josefa.m.equita@dartmouth.edu](mailto:josefa.m.equita@dartmouth.edu)).
+**Undergraduate part-time research assistants**: Interested undergrads may download and fill out this [application form](https://docs.google.com/document/d/1wlPxIw6OAbRHHOJvx1yPzkhXAGOu-2bjb6JHo-aTsBE/edit?usp=sharing) and email it to Tory ([Tory.G.Benson@dartmouth.edu](mailto:Tory.g.benson@dartmouth.edu)).
