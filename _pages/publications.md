@@ -22,7 +22,7 @@ Finn E.S., Glerean E., Hasson U., Vanderwal T. (2021). Naturalistic Imaging: The
 2022
 ---
 ---
-Baek, E.C., Hyon, R., López, K., Finn E.S., Porter, M.A., Parkinson, C. (2022). In-degree centrality in a social network is linked to coordinated neural activity. *Nature Communications*, 13, 1118. [[pdf]](https://thefinnlab.github.io/files/Baek_Finn_NatureComm2022.pdf)
+Baek, E.C., Hyon, R., López, K., Finn E.S., Porter, M.A., Parkinson, C. (2022). In-degree centrality in a social network is linked to coordinated neural activity. *Nature Communications*, 13, 1118. [[pdf]](https://thefinnlab.github.io/files/Baek_Finn_etal_NatureComm2022.pdf)
 
 2021
 ---
