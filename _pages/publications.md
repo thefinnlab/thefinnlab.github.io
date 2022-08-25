@@ -22,39 +22,39 @@ Finn E.S., Glerean E., Hasson U., Vanderwal T. (2021). Naturalistic Imaging: The
 2022
 ---
 ---
-Baek, E.C., Hyon, R., López, K., Finn E.S., Porter, M.A., Parkinson, C. (2022). In-degree centrality in a social network is linked to coordinated neural activity. *Nature Communications*, *13*, 1118. [[pdf]](https://thefinnlab.github.io/files/Baek_Finn_etal_NatureComm2022.pdf)
+Baek, E.C., Hyon, R., López, K., Finn E.S., Porter, M.A., Parkinson, C. (2022). In-degree centrality in a social network is linked to coordinated neural activity. *Nature Communications*, *13*, Article 1118. [[pdf]](https://thefinnlab.github.io/files/Baek_Finn_etal_NatureComm2022.pdf)
 
 Grall, C., Finn, E.S. (2022) Leveraging the power of media to drive cognition: a media-informed approach to naturalistic neuroscience, *Social Cognitive and Affective Neuroscience*, *17*(6), 598–608. [[pdf]](https://thefinnlab.github.io/files/Clare_Emily_SCAN.pdf)
 
-Goyal N., Moraczewski D., Bandettini P.A., Finn E.S., Thomas A. (2022). The positive-negative mode link between brain connectivity, demographics, and behavior: A pre-registered, replication of Smith et al. (2015). *Royal Society Open Science*, 9: 201090. [[pdf]](https://thefinnlab.github.io/files/Goyal_Finn_etal_RoyalSociety2022.pdf)
+Goyal N., Moraczewski D., Bandettini P.A., Finn E.S., Thomas A. (2022). The positive-negative mode link between brain connectivity, demographics, and behavior: A pre-registered, replication of Smith et al. (2015). *Royal Society Open Science*, *9*, Article 201090. [[pdf]](https://thefinnlab.github.io/files/Goyal_Finn_etal_RoyalSociety2022.pdf)
 
 2021
 ---
 ---
+Bandettini P.A., Finn E.S., Huber L. (2021). Challenges and opportunities of mesoscopic brain mapping with fMRI. *Current Opinion in Behavioral Sciences*, *40*, 189-200. [[pdf]](https://thefinnlab.github.io/files/Bandettini_CurrOpinBehavSci2021.pdf)
+
 Finn E.S. (2021). Is it time to put rest to rest? *Trends in Cognitive Sciences*, *25*(12), 1021-1032. [[pdf]](https://thefinnlab.github.io/files/Finn_TiCS2021.pdf)
 
-Finn E.S., Bandettini P.A. (2021). Movie-watching outperforms rest for functional connectivity-based prediction of behavior. *NeuroImage*, 235, 117963. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImage2021.pdf)
+Finn E.S., Bandettini P.A. (2021). Movie-watching outperforms rest for functional connectivity-based prediction of behavior. *NeuroImage*, *235*, Article 117963. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImage2021.pdf)
 
-Finn E.S., Rosenberg M.D. Beyond fingerprinting: Choosing predictive connectomes over reliable connectomes. *NeuroImage*, 118254. [[pdf]](https://thefinnlab.github.io/files/FinnRosenberg_NeuroImage2021.pdf)
-
-Song H., Finn E.S., Rosenberg M.D. (2021). Neural signatures of attentional engagement during narratives and its consequences for event memory. *PNAS*, *118*(33). [[pdf]](https://thefinnlab.github.io/files/Song_PNAS2021.pdf)
-
-Bandettini P.A., Finn E.S., Huber L. (2021). Challenges and opportunities of mesoscopic brain mapping with fMRI. *Current Opinion in Behavioral Sciences*, 40, 189-200. [[pdf]](https://thefinnlab.github.io/files/Bandettini_CurrOpinBehavSci2021.pdf)
+Finn E.S., Rosenberg M.D. (2021). Beyond fingerprinting: Choosing predictive connectomes over reliable connectomes. *NeuroImage*, *239*, Article 118254. [[pdf]](https://thefinnlab.github.io/files/FinnRosenberg_NeuroImage2021.pdf)
 
 Scheinost D., Dadashkarimi J., Finn E.S., Wambach C.G., MacGillivray C., Roule A.L., Niendam T.A., Pine D.S., Brotman M.A., Leibenluft E., & Tseng W-L. (2021). Functional connectivity during frustration: a preliminary study of predictive modeling of irritability in youth. *Neuropsychopharmacology* *46*(7), 1300-1306. [[pdf]](https://thefinnlab.github.io/files/Scheinost_NPP2021.pdf)
+
+Song H., Finn E.S., Rosenberg M.D. (2021). Neural signatures of attentional engagement during narratives and its consequences for event memory. *PNAS*, *118*(33). [[pdf]](https://thefinnlab.github.io/files/Song_PNAS2021.pdf)
 
 2020
 ---
 ---
-Finn E.S., Huber L., Bandettini P.A. (2020). Higher and deeper: Bringing layer fMRI to association cortex. *Progress in Neurobiology*, 101930. [[pdf]](https://thefinnlab.github.io/files/Finn_ProgNeurobiol2020.pdf)
+Finn E.S., Glerean E., Khojandi A.Y., Nielson D., Molfese P.J., Handwerker D.A., Bandettini P.A. (2020). Idiosynchrony: From shared responses to individual differences during naturalistic neuroimaging. *NeuroImage*, *215*, Article 116828. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImage2020.pdf)
 
-Huber L., Finn E.S., Chai Y., Goebel R., Stirnberg R., Stöcker T., Marrett S., Uludag K., Kim S.G., Han S., Bandettini P.A., Poser B.A. (2020). Layer-dependent functional connectivity methods. *Progress in Neurobiology*, 101835. [[pdf]](https://thefinnlab.github.io/files/Huber_ProgNeurobiol2020.pdf)
+Finn E.S., Huber L., Bandettini P.A. (2020). Higher and deeper: Bringing layer fMRI to association cortex. *Progress in Neurobiology*, *207*, Article 101930. [[pdf]](https://thefinnlab.github.io/files/Finn_ProgNeurobio2020_updated.pdf)
 
-Finn E.S., Glerean E., Khojandi A.Y., Nielson D., Molfese P.J., Handwerker D.A., Bandettini P.A. (2020). Idiosynchrony: From shared responses to individual differences during naturalistic neuroimaging. *NeuroImage*, 116828. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImage2020.pdf)
+Huber L., Finn E.S., Chai Y., Goebel R., Stirnberg R., Stöcker T., Marrett S., Uludag K., Kim S.G., Han S., Bandettini P.A., Poser B.A. (2020). Layer-dependent functional connectivity methods. *Progress in Neurobiology*, *207*, Article 101835. [[pdf]](https://thefinnlab.github.io/files/Huber_ProgNeurobio2020_updated.pdf)
 
-Huber L., Finn E.S., Handwerker D.A., Boenstrup M., Glen D., Kashyap S., Ivanov D., Petridou N., Marrett S., Goense J., Poser B., Bandettini P.A. (2020). Sub-millimeter fMRI reveals multiple topographical digit representations that form action maps in human motor cortex. *NeuroImage*, 208: 116463. [[pdf]](https://thefinnlab.github.io/files/Huber_NeuroImage2020.pdf)
+Huber L., Finn E.S., Handwerker D.A., Boenstrup M., Glen D., Kashyap S., Ivanov D., Petridou N., Marrett S., Goense J., Poser B., Bandettini P.A. (2020). Sub-millimeter fMRI reveals multiple topographical digit representations that form action maps in human motor cortex. *NeuroImage*, *208*, Article 116463. [[pdf]](https://thefinnlab.github.io/files/Huber_NeuroImage2020.pdf)
 
-Rosenberg M.D., Scheinost D., Greene A.S., Avery E.W., Kwon Y.H., Finn E.S., Ramani R., Qiu M., Constable R.T., Chun M.M. (2020). Functional connectivity predicts changes in attention observed across minutes, days, and months. *PNAS*, 117: 3797-3807. [[pdf]](https://thefinnlab.github.io/files/Rosenberg_PNAS2020.pdf)
+Rosenberg M.D., Scheinost D., Greene A.S., Avery E.W., Kwon Y.H., Finn E.S., Ramani R., Qiu M., Constable R.T., Chun M.M. (2020). Functional connectivity predicts changes in attention observed across minutes, days, and months. *PNAS*, *117*, 3797-3807. [[pdf]](https://thefinnlab.github.io/files/Rosenberg_PNAS2020.pdf)
 
 2019
 ---
