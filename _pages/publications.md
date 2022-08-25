@@ -26,6 +26,8 @@ Baek, E.C., Hyon, R., López, K., Finn E.S., Porter, M.A., Parkinson, C. (2022).
 
 Grall, C., Finn, E.S. (2022) Leveraging the power of media to drive cognition: a media-informed approach to naturalistic neuroscience, *Social Cognitive and Affective Neuroscience*, *17*(6), 598–608. [[pdf]](https://thefinnlab.github.io/files/Clare_Emily_SCAN.pdf)
 
+Goyal N., Moraczewski D., Bandettini P.A., Finn E.S., Thomas A. (2022). The positive-negative mode link between brain connectivity, demographics, and behavior: A pre-registered, replication of Smith et al. (2015). *Royal Society Open Science*, 9: 201090. [[pdf]](https://thefinnlab.github.io/files/Goyal_Finn_etal_RoyalSociety2022.pdf)
+
 2021
 ---
 ---
@@ -40,8 +42,6 @@ Song H., Finn E.S., Rosenberg M.D. (2021). Neural signatures of attentional enga
 Bandettini P.A., Finn E.S., Huber L. (2021). Challenges and opportunities of mesoscopic brain mapping with fMRI. *Current Opinion in Behavioral Sciences*, 40, 189-200. [[pdf]](https://thefinnlab.github.io/files/Bandettini_CurrOpinBehavSci2021.pdf)
 
 Scheinost D., Dadashkarimi J., Finn E.S., Wambach C.G., MacGillivray C., Roule A.L., Niendam T.A., Pine D.S., Brotman M.A., Leibenluft E., & Tseng W-L. (2021). Functional connectivity during frustration: a preliminary study of predictive modeling of irritability in youth. *Neuropsychopharmacology* *46*(7), 1300-1306. [[pdf]](https://thefinnlab.github.io/files/Scheinost_NPP2021.pdf)
-
-Goyal N., Moraczewski D., Bandettini P.A., Finn E.S., Thomas A. The positive-negative mode link between brain connectivity, demographics, and behavior: A pre-registered, replication of Smith et al. (2015). *Royal Society Open Science*, in press.
 
 2020
 ---
