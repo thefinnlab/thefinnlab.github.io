@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-Grall C., Finn E.S. Leveraging the power of media to drive cognition: A media-informed approach to naturalistic neuroscience. *PsyArXiv*, doi: [10.31234/osf.io/c8z9t](https://psyarxiv.com/c8z9t)
+Varrier R.S., Finn E.S. Seeing social: A neural signature for conscious perception of social interactions. *bioRxiv*, doi: [10.1101/2022.05.26.493596](https://doi.org/10.1101/2022.05.26.493596)
 
 ## Recent editorials
 
