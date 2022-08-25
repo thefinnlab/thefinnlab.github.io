@@ -39,9 +39,9 @@ Finn E.S., Bandettini P.A. (2021). Movie-watching outperforms rest for functiona
 
 Finn E.S., Rosenberg M.D. (2021). Beyond fingerprinting: Choosing predictive connectomes over reliable connectomes. *NeuroImage*, *239*, Article 118254. [[pdf]](https://thefinnlab.github.io/files/FinnRosenberg_NeuroImage2021.pdf)
 
-Finn E.S., Huber L., Bandettini P.A. (2020). Higher and deeper: Bringing layer fMRI to association cortex. *Progress in Neurobiology*, *207*, Article 101930. [[pdf]](https://thefinnlab.github.io/files/Finn_ProgNeurobio2020_updated.pdf)
+Finn E.S., Huber L., Bandettini P.A. (2021). Higher and deeper: Bringing layer fMRI to association cortex. *Progress in Neurobiology*, *207*, Article 101930. [[pdf]](https://thefinnlab.github.io/files/Finn_ProgNeurobio2020_updated.pdf)
 
-Huber L., Finn E.S., Chai Y., Goebel R., Stirnberg R., Stöcker T., Marrett S., Uludag K., Kim S.G., Han S., Bandettini P.A., Poser B.A. (2020). Layer-dependent functional connectivity methods. *Progress in Neurobiology*, *207*, Article 101835. [[pdf]](https://thefinnlab.github.io/files/Huber_ProgNeurobio2020_updated.pdf)
+Huber L., Finn E.S., Chai Y., Goebel R., Stirnberg R., Stöcker T., Marrett S., Uludag K., Kim S.G., Han S., Bandettini P.A., Poser B.A. (2021). Layer-dependent functional connectivity methods. *Progress in Neurobiology*, *207*, Article 101835. [[pdf]](https://thefinnlab.github.io/files/Huber_ProgNeurobio2020_updated.pdf)
 
 Scheinost D., Dadashkarimi J., Finn E.S., Wambach C.G., MacGillivray C., Roule A.L., Niendam T.A., Pine D.S., Brotman M.A., Leibenluft E., & Tseng W-L. (2021). Functional connectivity during frustration: a preliminary study of predictive modeling of irritability in youth. *Neuropsychopharmacology* *46*(7), 1300-1306. [[pdf]](https://thefinnlab.github.io/files/Scheinost_NPP2021.pdf)
 
