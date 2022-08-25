@@ -39,6 +39,10 @@ Finn E.S., Bandettini P.A. (2021). Movie-watching outperforms rest for functiona
 
 Finn E.S., Rosenberg M.D. (2021). Beyond fingerprinting: Choosing predictive connectomes over reliable connectomes. *NeuroImage*, *239*, Article 118254. [[pdf]](https://thefinnlab.github.io/files/FinnRosenberg_NeuroImage2021.pdf)
 
+Finn E.S., Huber L., Bandettini P.A. (2020). Higher and deeper: Bringing layer fMRI to association cortex. *Progress in Neurobiology*, *207*, Article 101930. [[pdf]](https://thefinnlab.github.io/files/Finn_ProgNeurobio2020_updated.pdf)
+
+Huber L., Finn E.S., Chai Y., Goebel R., Stirnberg R., Stöcker T., Marrett S., Uludag K., Kim S.G., Han S., Bandettini P.A., Poser B.A. (2020). Layer-dependent functional connectivity methods. *Progress in Neurobiology*, *207*, Article 101835. [[pdf]](https://thefinnlab.github.io/files/Huber_ProgNeurobio2020_updated.pdf)
+
 Scheinost D., Dadashkarimi J., Finn E.S., Wambach C.G., MacGillivray C., Roule A.L., Niendam T.A., Pine D.S., Brotman M.A., Leibenluft E., & Tseng W-L. (2021). Functional connectivity during frustration: a preliminary study of predictive modeling of irritability in youth. *Neuropsychopharmacology* *46*(7), 1300-1306. [[pdf]](https://thefinnlab.github.io/files/Scheinost_NPP2021.pdf)
 
 Song H., Finn E.S., Rosenberg M.D. (2021). Neural signatures of attentional engagement during narratives and its consequences for event memory. *PNAS*, *118*(33). [[pdf]](https://thefinnlab.github.io/files/Song_PNAS2021.pdf)
@@ -47,10 +51,6 @@ Song H., Finn E.S., Rosenberg M.D. (2021). Neural signatures of attentional enga
 ---
 ---
 Finn E.S., Glerean E., Khojandi A.Y., Nielson D., Molfese P.J., Handwerker D.A., Bandettini P.A. (2020). Idiosynchrony: From shared responses to individual differences during naturalistic neuroimaging. *NeuroImage*, *215*, Article 116828. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImage2020.pdf)
-
-Finn E.S., Huber L., Bandettini P.A. (2020). Higher and deeper: Bringing layer fMRI to association cortex. *Progress in Neurobiology*, *207*, Article 101930. [[pdf]](https://thefinnlab.github.io/files/Finn_ProgNeurobio2020_updated.pdf)
-
-Huber L., Finn E.S., Chai Y., Goebel R., Stirnberg R., Stöcker T., Marrett S., Uludag K., Kim S.G., Han S., Bandettini P.A., Poser B.A. (2020). Layer-dependent functional connectivity methods. *Progress in Neurobiology*, *207*, Article 101835. [[pdf]](https://thefinnlab.github.io/files/Huber_ProgNeurobio2020_updated.pdf)
 
 Huber L., Finn E.S., Handwerker D.A., Boenstrup M., Glen D., Kashyap S., Ivanov D., Petridou N., Marrett S., Goense J., Poser B., Bandettini P.A. (2020). Sub-millimeter fMRI reveals multiple topographical digit representations that form action maps in human motor cortex. *NeuroImage*, *208*, Article 116463. [[pdf]](https://thefinnlab.github.io/files/Huber_NeuroImage2020.pdf)
 
