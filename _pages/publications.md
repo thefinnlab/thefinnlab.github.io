@@ -90,24 +90,24 @@ Individual differences in functional connectivity during naturalistic viewing co
 2016
 ---
 ---
-Scheinost D., Tokoglu F., Shen X., Finn E.S., Noble S., Papademetris X., Constable R.T. (2016). Fluctuations in global brain activity are associated with changes in whole-brain connectivity of functional networks. *IEEE Transactions on Biomedical Engineering*, *63*(12), 2540–2549. [[pdf]](https://esfinn.github.io/files/Scheinost_IEEEBiomedEng2016.pdf)
+Finn E.S., Constable R.T. (2016). Individual variation in functional brain connectivity and its implications for personalized approaches to psychiatric disease. *Dialogues in Clinical Neuroscience*, *18*(3), 277–287. [[pdf]](https://esfinn.github.io/files/Finn_DialClinNeurosci2016.pdf)
 
 Pinango M.M., Finn E.S., Lacadie C., Constable R.T. (2016). The localization of long-distance dependency components: Integrating the focal-lesion and neuroimaging record. *Frontiers in Psychology*, *7*, Article 1434. [[pdf]](https://esfinn.github.io/files/Pinango_FrontPsychol2016.pdf)
-
-Finn E.S., Constable R.T. (2016). Individual variation in functional brain connectivity and its implications for personalized approaches to psychiatric disease. *Dialogues in Clinical Neuroscience*, *18*(3), 277–287. [[pdf]](https://esfinn.github.io/files/Finn_DialClinNeurosci2016.pdf)
 
 Rosenberg M.D., Zhang S., Hsu W.T., Scheinost D., Finn E.S., Shen X., Constable R.T., Li C., Chun M.M. (2016). Methylphenidate modulates functional network connectivity to enhance attention. *Journal of Neuroscience*, *36*(37), 9547–9557. [[pdf]](https://esfinn.github.io/files/Rosenberg_JNeurosci2016.pdf)
 
 Rosenberg M.D.\*, Finn E.S.\*, Scheinost D., Shen X., Papademetris X., Constable R.T., Chun M.M. (2016). A neuromarker of sustained attention from whole-brain functional connectivity. *Nature Neuroscience*, *19*(1), 165–171. [[pdf]](https://esfinn.github.io/files/Rosenberg_NatNeuro2016.pdf)<br/>*\*Authors contributed equally*<br/>Press coverage: [NPR](https://www.npr.org/sections/health-shots/2015/11/23/457139705/a-peek-at-brain-connections-may-reveal-attention-deficits), [Science magazine](http://www.sciencemag.org/news/2015/11/having-trouble-concentrating-brain-network-may-be-blame)
+
+Scheinost D., Tokoglu F., Shen X., Finn E.S., Noble S., Papademetris X., Constable R.T. (2016). Fluctuations in global brain activity are associated with changes in whole-brain connectivity of functional networks. *IEEE Transactions on Biomedical Engineering*, *63*(12), 2540–2549. [[pdf]](https://esfinn.github.io/files/Scheinost_IEEEBiomedEng2016.pdf)
 
 2015
 ---
 ---
 Finn E.S.\*, Shen X.\*, Scheinost D., Rosenberg M.D., Huang J., Chun M.M., Papademetris X., Constable R.T. (2015). Functional connectome fingerprinting: Identifying individuals using patterns of brain connectivity. *Nature Neuroscience*, *18*(11), 1664–1671. [[pdf]](https://esfinn.github.io/files/nn.4135.pdf)<br/>*\*Authors contributed equally*<br/>Press coverage: [BBC](http://www.bbc.com/news/science-environment-34504848), [NBC](https://www.nbcnews.com/better/wellness/scans-show-people-have-brain-fingerprint-n442966), [PBS](https://www.pbs.org/newshour/science/brain-fingerprint-sorting-hat-intelligence), [CBS](https://www.cbsnews.com/news/your-brain-is-your-fingerprint/), [Newsweek](http://www.newsweek.com/unique-brain-fingerprint-offers-new-method-identification-382661), [Scientific American](https://www.scientificamerican.com/article/brainprints-pick-out-an-individual-from-the-crowd/), [Discover](http://blogs.discovermagazine.com/d-brief/2015/10/12/connections-in-the-brain-like-fingerprints-can-identify-individuals), [Wired](https://www.wired.com/2015/10/scientists-can-now-predict-intelligence-brain-activity/), [Nature News](https://www.nature.com/news/brain-scans-pinpoint-individuals-from-a-crowd-1.18541), [The Scientist](https://www.the-scientist.com/?articles.view/articleNo/44212/title/Brain-Activity-Identifies-Individuals/)<br/>Companion article for lay reader: E.S. Finn, "Brain activity is as unique -- and identifying -- as a fingerprint." [TheConversation.com](http://theconversation.com/brain-activity-is-as-unique-and-identifying-as-a-fingerprint-48723)
 
-Powers III A.R., Ganscos M.G., Finn E.S., Morgan P.T., Corlett P.R. (2015). Ketamine-induced hallucinations. *Psychopathology*, *48*(6), 376-385. [[pdf]](https://esfinn.github.io/files/Powers_Psychopathol2015.pdf)
-
 Garrison K.A., Scheinost D., Finn E.S., Shen X., Constable R.T. (2015). The (in)stability of functional brain network measures across thresholds. *NeuroImage*, *118*, 651-661. [[pdf]](https://esfinn.github.io/files/Garrison_NeuroImage2015.pdf)
+
+Powers III A.R., Ganscos M.G., Finn E.S., Morgan P.T., Corlett P.R. (2015). Ketamine-induced hallucinations. *Psychopathology*, *48*(6), 376-385. [[pdf]](https://esfinn.github.io/files/Powers_Psychopathol2015.pdf)
 
 Rosenberg M.D., Finn E.S., Constable R.T., Chun M.M. (2015). Predicting moment-to-moment attentional state. *NeuroImage*, *114*, 249-256. [[pdf]](https://esfinn.github.io/files/Rosenberg_NeuroImage2015.pdf)
 
