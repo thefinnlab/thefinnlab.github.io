@@ -50,6 +50,8 @@ Song H., Finn E.S., Rosenberg M.D. (2021). Neural signatures of attentional enga
 2020
 ---
 ---
+Chen G., Taylor P.A., Qu X., Molfese P.J., Bandettini P.A., Cox R.W., Finn E.S. (2020). Untangling the Relatedness among Correlations, Part III: Inter-Subject Correlation Analysis through Bayesian Multilevel Modeling for Naturalistic Scanning. *NeuroImage*, *216*, Article 116474. [[pdf]](https://thefinnlab.github.io/files/Chen_NeuroImage2020.pdf)
+
 Finn E.S., Glerean E., Khojandi A.Y., Nielson D., Molfese P.J., Handwerker D.A., Bandettini P.A. (2020). Idiosynchrony: From shared responses to individual differences during naturalistic neuroimaging. *NeuroImage*, *215*, Article 116828. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImage2020.pdf)
 
 Huber L., Finn E.S., Handwerker D.A., Boenstrup M., Glen D., Kashyap S., Ivanov D., Petridou N., Marrett S., Goense J., Poser B., Bandettini P.A. (2020). Sub-millimeter fMRI reveals multiple topographical digit representations that form action maps in human motor cortex. *NeuroImage*, *208*, Article 116463. [[pdf]](https://thefinnlab.github.io/files/Huber_NeuroImage2020.pdf)
@@ -59,32 +61,31 @@ Rosenberg M.D., Scheinost D., Greene A.S., Avery E.W., Kwon Y.H., Finn E.S., Ram
 2019
 ---
 ---
-Chen G., Taylor P.A., Qu X., Molfese P.J., Bandettini P.A., Cox R.W., Finn E.S. (2019). Untangling the Relatedness among Correlations, Part III: Inter-Subject Correlation Analysis through Bayesian Multilevel Modeling for Naturalistic Scanning. *NeuroImage*, 116474. [[pdf]](https://thefinnlab.github.io/files/Chen_NeuroImage2020.pdf)
 
-Finn E.S., Huber L., Jangraw D.C., Molfese P.J., Bandettini P.A. (2019). Layer-dependent activity in human prefrontal cortex during working memory. *Nature Neuroscience*, 22: 1687–1695. [[pdf]](https://esfinn.github.io/files/Finn_NatNeuro2019.pdf)
+Finn E.S., Huber L., Jangraw D.C., Molfese P.J., Bandettini P.A. (2019). Layer-dependent activity in human prefrontal cortex during working memory. *Nature Neuroscience*, *22*, 1687–1695. [[pdf]](https://esfinn.github.io/files/Finn_NatNeuro2019.pdf)
 
-Lake E.M.R., Finn E.S., Noble S.M., Vanderwal T., Shen X., Rosenberg M.D., Spann M.N., Chun M.M., Constable R.T. (2019). The functional brain organization of an individual predicts measures of social abilities in autism spectrum disorder. *Biological Psychiatry*, 86: 315-326. [[pdf]](https://esfinn.github.io/files/Lake_BiolPsych2019.pdf)
+Lake E.M.R., Finn E.S., Noble S.M., Vanderwal T., Shen X., Rosenberg M.D., Spann M.N., Chun M.M., Constable R.T. (2019). The functional brain organization of an individual predicts measures of social abilities in autism spectrum disorder. *Biological Psychiatry*, *86*, 315-326. [[pdf]](https://esfinn.github.io/files/Lake_BiolPsych2019.pdf)
 
 2018
 ---
 ---
-Finn E.S., Corlett P.R., Chen G., Bandettini P.A., Constable R.T. (2018). Trait paranoia shapes inter-subject synchrony in brain activity during an ambiguous social narrative. *Nature Communications*, 9: 2043. [[pdf]](https://esfinn.github.io/files/Finn_NatComms2018.pdf)
+Finn E.S., Corlett P.R., Chen G., Bandettini P.A., Constable R.T. (2018). Trait paranoia shapes inter-subject synchrony in brain activity during an ambiguous social narrative. *Nature Communications*, *9* Article 2043. [[pdf]](https://esfinn.github.io/files/Finn_NatComms2018.pdf)
 
-Horien C., Noble S., Finn E.S., Shen X., Scheinost D., Constable R.T. (2018). Considering factors affecting the connectome-based identification process: Comment on Waller et al. *NeuroImage*, 169: 172-175. [[pdf]](https://esfinn.github.io/files/Horien_NeuroImage2018.pdf)
+Horien C., Noble S., Finn E.S., Shen X., Scheinost D., Constable R.T. (2018). Considering factors affecting the connectome-based identification process: Comment on Waller et al. *NeuroImage*, *169* 172-175. [[pdf]](https://esfinn.github.io/files/Horien_NeuroImage2018.pdf)
 
 2017
 ---
 ---
-Finn E.S., Scheinost D., Finn D.M., Shen X., Papademetris X., Constable R.T. (2017). Can brain state be manipulated to emphasize individual differences in functional connectivity? *NeuroImage*, 160: 140-151. [[pdf]](https://esfinn.github.io/files/Finn_NeuroImage2017.pdf)
+Finn E.S., Scheinost D., Finn D.M., Shen X., Papademetris X., Constable R.T. (2017). Can brain state be manipulated to emphasize individual differences in functional connectivity? *NeuroImage*, *160* 140-151. [[pdf]](https://esfinn.github.io/files/Finn_NeuroImage2017.pdf)
+
+Noble S., Scheinost D., Finn E.S., Shen X., Papademetris X., McEwen, S.C., Bearden, C.E., Addington, J., Goodyear, B., Cadenhead, K.S., Mirzakhanian, H., Cornblatt, B.A., Olvet, D.M., Mathalon, D.H., McGlashan, T.H., Perkins, D.O., Belger, A., Seidman, L.J., Thermenos, H., […], Constable R.T. (2017). Multisite reliability of MR-based functional connectivity. *NeuroImage*, *146*, 959-970. [[pdf]](https://esfinn.github.io/files/Noble_NeuroImage2017.pdf)
+
+Rosenberg M.D., Finn E.S., Scheinost D., Constable R.T., Chun M.M. (2017). Characterizing attention with predictive network models. *Trends in Cognitive Sciences*, *21*, 290-302. [[pdf]](https://esfinn.github.io/files/Rosenberg_TiCS2017.pdf)
+
+Shen X., Finn E.S., Scheinost D., Rosenberg M.D., Chun M.M., Papademetris X., Constable R.T. (2017). Using connectome-based predictive modeling to predict individual behavior from brain connectivity. *Nature Protocols*, *12*, 506-518. [[pdf]](https://esfinn.github.io/files/Shen_NatProtocols2017.pdf)
 
 Vanderwal T., Eilbott J., Finn E.S., Craddock R.C., Turnbull A., Castellanos F.X. (2017).
-Individual differences in functional connectivity during naturalistic viewing conditions. *NeuroImage*, 157: 521-530. [[pdf]](https://esfinn.github.io/files/Vanderwal_NeuroImage2017.pdf)
-
-Rosenberg M.D., Finn E.S., Scheinost D., Constable R.T., Chun M.M. (2017). Characterizing attention with predictive network models. *Trends in Cognitive Sciences* 21: 290-302. [[pdf]](https://esfinn.github.io/files/Rosenberg_TiCS2017.pdf)
-
-Shen X., Finn E.S., Scheinost D., Rosenberg M.D., Chun M.M., Papademetris X., Constable R.T. (2017). Using connectome-based predictive modeling to predict individual behavior from brain connectivity. *Nature Protocols* 12: 506-18. [[pdf]](https://esfinn.github.io/files/Shen_NatProtocols2017.pdf)
-
-Noble S., Scheinost D., Finn ES., Shen X., […], Cannon T.D., Constable R.T. (2017) Multisite reliability of MR-based functional connectivity. *NeuroImage*, 146: 959-970. [[pdf]](https://esfinn.github.io/files/Noble_NeuroImage2017.pdf)
+Individual differences in functional connectivity during naturalistic viewing conditions. *NeuroImage*, *157*, 521-530. [[pdf]](https://esfinn.github.io/files/Vanderwal_NeuroImage2017.pdf)
 
 2016
 ---
