@@ -15,7 +15,7 @@ Rosenberg, M.D., Finn, E.S. (2022). How to establish robust brain–behavior rel
 
 Botch T.L., Robertson C.E., Finn E.S. (2022). A deeper look at vision and memory. *Nature Neuroscience*, *25*, 8-10. [[pdf]](https://thefinnlab.github.io/files/Botch_Finn_Robertson_NNupdated2022.pdf)
 
-Finn E.S., Glerean E., Hasson U., Vanderwal T. (2021). Naturalistic Imaging: The use of ecologically valid conditions to study brain function. *NeuroImage*, 118776-118776. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImageSI2021.pdf)
+Finn E.S., Glerean E., Hasson U., Vanderwal T. (2021). Naturalistic Imaging: The use of ecologically valid conditions to study brain function. *NeuroImage*, *247*, Article 118776. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImageSI2021.pdf)
 
 ## Peer-reviewed publications
 
@@ -56,12 +56,11 @@ Finn E.S., Glerean E., Khojandi A.Y., Nielson D., Molfese P.J., Handwerker D.A.,
 
 Huber L., Finn E.S., Handwerker D.A., Boenstrup M., Glen D., Kashyap S., Ivanov D., Petridou N., Marrett S., Goense J., Poser B., Bandettini P.A. (2020). Sub-millimeter fMRI reveals multiple topographical digit representations that form action maps in human motor cortex. *NeuroImage*, *208*, Article 116463. [[pdf]](https://thefinnlab.github.io/files/Huber_NeuroImage2020.pdf)
 
-Rosenberg M.D., Scheinost D., Greene A.S., Avery E.W., Kwon Y.H., Finn E.S., Ramani R., Qiu M., Constable R.T., Chun M.M. (2020). Functional connectivity predicts changes in attention observed across minutes, days, and months. *PNAS*, *117*, 3797-3807. [[pdf]](https://thefinnlab.github.io/files/Rosenberg_PNAS2020.pdf)
+Rosenberg M.D., Scheinost D., Greene A.S., Avery E.W., Kwon Y.H., Finn E.S., Ramani R., Qiu M., Constable R.T., Chun M.M. (2020). Functional connectivity predicts changes in attention observed across minutes, days, and months. *PNAS*, *117*(7), 3797-3807. [[pdf]](https://thefinnlab.github.io/files/Rosenberg_PNAS2020.pdf)
 
 2019
 ---
 ---
-
 Finn E.S., Huber L., Jangraw D.C., Molfese P.J., Bandettini P.A. (2019). Layer-dependent activity in human prefrontal cortex during working memory. *Nature Neuroscience*, *22*, 1687–1695. [[pdf]](https://esfinn.github.io/files/Finn_NatNeuro2019.pdf)
 
 Lake E.M.R., Finn E.S., Noble S.M., Vanderwal T., Shen X., Rosenberg M.D., Spann M.N., Chun M.M., Constable R.T. (2019). The functional brain organization of an individual predicts measures of social abilities in autism spectrum disorder. *Biological Psychiatry*, *86*, 315-326. [[pdf]](https://esfinn.github.io/files/Lake_BiolPsych2019.pdf)
