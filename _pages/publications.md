@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-Varrier R.S., Finn E.S. Seeing social: A neural signature for conscious perception of social interactions. *bioRxiv*, doi: [10.1101/2022.05.26.493596](https://doi.org/10.1101/2022.05.26.493596)
+Varrier R.S., Finn E.S. Seeing social: A neural signature for conscious perception of social interactions. *Journal of Neuroscience* [accepted manuscript](https://thefinnlab.github.io/files/Varrier_Finn_SeeingSocial_accepted_2022.pdf)
 
 ## Recent editorials
 
