@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-Varrier, R.S., Finn, E.S. (2022). Seeing social: A neural signature for conscious perception of social interactions. *Journal of Neuroscience* [[accepted manuscript]](https://thefinnlab.github.io/files/Varrier_Finn_SeeingSocial_accepted_2022.pdf)
+Varrier, R.S., Finn, E.S. (2022). Seeing social: A neural signature for conscious perception of social interactions. *Journal of Neuroscience*. [[accepted manuscript]](https://thefinnlab.github.io/files/Varrier_Finn_SeeingSocial_accepted_2022.pdf)
 
 ## Recent editorials
 
