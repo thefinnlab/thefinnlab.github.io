@@ -7,7 +7,6 @@ author_profile: true
 
 ## Preprints
 
-Varrier, R.S., Finn, E.S. (2022). Seeing social: A neural signature for conscious perception of social interactions. *Journal of Neuroscience*. [[accepted manuscript]](https://thefinnlab.github.io/files/Varrier_Finn_SeeingSocial_accepted_2022.pdf)
 
 ## Recent editorials
 
@@ -27,6 +26,8 @@ Baek, E.C., Hyon, R., López, K., Finn E.S., Porter, M.A., Parkinson, C. (2022).
 Grall, C., Finn, E.S. (2022) Leveraging the power of media to drive cognition: a media-informed approach to naturalistic neuroscience, *Social Cognitive and Affective Neuroscience*, *17*(6), 598–608. [[pdf]](https://thefinnlab.github.io/files/Clare_Emily_SCAN.pdf)
 
 Goyal N., Moraczewski D., Bandettini P.A., Finn E.S., Thomas A. (2022). The positive-negative mode link between brain connectivity, demographics, and behavior: A pre-registered, replication of Smith et al. (2015). *Royal Society Open Science*, *9*, Article 201090. [[pdf]](https://thefinnlab.github.io/files/Goyal_Finn_etal_RoyalSociety2022.pdf)
+
+Varrier, R.S., Finn, E.S. (2022). Seeing social: A neural signature for conscious perception of social interactions. *Journal of Neuroscience*, *42*(49), 9211-9226 [[pdf]](https://thefinnlab.github.io/files/Varrier_Finn_JNeuro_2022.pdf)
 
 2021
 ---
