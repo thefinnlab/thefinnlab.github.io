@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Preprints
-Iyer, S., Collier, E., Finn, E.S., & Meyer, M.L. Negative affect homogenizes and positive affect diversifies social memory consolidation across people. *bioRxiv*. doi: 10.1101/2023.02.20.528994 [[link]](https://doi.org/10.1101/2023.02.20.528994)
+Iyer, S., Collier, E., Finn, E.S., & Meyer, M.L. (2023) Negative affect homogenizes and positive affect diversifies social memory consolidation across people. *bioRxiv*. doi: 10.1101/2023.02.20.528994 [[link]](https://doi.org/10.1101/2023.02.20.528994)
 
 ## Recent editorials
 
