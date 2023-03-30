@@ -21,6 +21,8 @@ Finn, E.S., Glerean, E., Hasson, U., & Vanderwal, T. (2021). Naturalistic Imagin
 2023
 ---
 ---
+Sava-Segal, C., Richards, C., Leung, M., & Finn, E. S. (2023). Individual differences in neural event segmentation of continuous experiences. *Cerebral Cortex*, bhad106 [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_Cereb2023.pdf)
+
 Grall, C., Equita, J., & Finn, E. S. (2023). Neural unscrambling of temporal information during a nonlinear narrative. *Cerebral Cortex*, bhad015 [[pdf]](https://thefinnlab.github.io/files/Grall_Finn_Cereb2023.pdf)
 
 2022
