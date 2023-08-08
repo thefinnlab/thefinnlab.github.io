@@ -14,7 +14,6 @@ What makes us unique? How do our intrinsic traits bias our perceptions and judgm
 <head>
     <link rel = "stylesheet" href="https://thefinnlab.github.io/files/image carousel.css">
     <link rel = "stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css">
-
 <div class = "container">
     <div class="swiper">
         <div class="swiper-wrapper">
