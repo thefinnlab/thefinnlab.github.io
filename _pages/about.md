@@ -64,7 +64,7 @@ redirect_from:
 </script>
 
       <tr style="border: 0 solid transparent; border-bottom-width: 2.5px;">
-          <td width="20%" style="border: none; vertical-align: top;">
+          <td width="20%" style="border: none; vertical-align: top; text-align:right;">
               <style>
               body {
               margin-bottom: 200%;
