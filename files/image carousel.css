@@ -4,14 +4,18 @@ body{
     box-sizing: border-box;
 }
 
+.h3, .first-txt{
+    font-weight: normal;
+}  
+
 .container{
-    width: 100%;
+    width: 70%;
     height: 100vh;
     background: #ffffff;
 }
 
 .swiper{
-    width: 75%;
+    width: 60%;
     height: fit-content;
 }
 
