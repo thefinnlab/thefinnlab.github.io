@@ -9,13 +9,13 @@ body{
 }  
 
 .container{
-    width: 70%;
+    width: 80%;
     height: 100vh;
     background: #ffffff;
 }
 
 .swiper{
-    width: 70%;
+    width: 75%;
     height: fit-content;
 }
 
