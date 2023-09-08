@@ -6,7 +6,7 @@ author_profile: true
 ---
   
 ### How and why do different people arrive at different interpretations of the same experience?
-<img align="right" src="https://thefinnlab.github.io/images/paranoiamatrix.png" width="400 px" style="padding: 10px">
+<img align="right" src="https://thefinnlab.github.io/images/eventseg_fig.jpg" width="400 px" style="padding: 10px">
 Faced with the same sensory information, different individuals can come to very different conclusions. What factors bias individuals toward one interpretation or another? How are divergences in interpretation reflected in brain activity before, during and after exposure to ambiguous information? One overarching goal of our research is to understand how people appraise and interpret inherently ambiguous scenarios as a function of individual traits, states, beliefs and prior experiences, and interactions among these factors. We have found, for example, that personality traits such as [paranoia](https://www.nature.com/articles/s41467-018-04387-2) affect how an ambiguous social narrative is perceived both neurally and behaviorally. We have also identified [neural event segmentation](https://academic.oup.com/cercor/article/33/13/8164/7093068) as one candidate mechanism by which people may form different interpretations of the same experience. In ongoing work, we are characterizing what features of the information itself lead to shared versus idiosyncratic patterns of brain activity and behavior. We are also examining what happens when people *reappraise* ambiguous information in light of new information, such as hearing another person’s interpretation of the same stimulus.
 <br>
 <br>
