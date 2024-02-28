@@ -8,7 +8,7 @@ author_profile: true
 ## Preprints
 Kim, H., Lux, B.K., Finn, E.S., & Woo, C.W. (2023). Getting personal: Brain decoding of spontaneous thought using personal narratives. *bioRxiv*. doi: 10.1101/2023.05.12.540141 [[link]](https://doi.org/10.1101/2023.05.12.540141)
 
-Iyer, S., Collier, E., Finn, E.S., & Meyer, M.L. (2023). Negative affect homogenizes and positive affect diversifies social memory consolidation across people. *bioRxiv*. doi: 10.1101/2023.02.20.528994 [[link]](https://doi.org/10.1101/2023.02.20.528994)
+Iyer, S., Collier, E., <b>Finn, E.S.</b>, & Meyer, M.L. (2023). Negative affect homogenizes and positive affect diversifies social memory consolidation across people. *bioRxiv*. doi: 10.1101/2023.02.20.528994 [[link]](https://doi.org/10.1101/2023.02.20.528994)
 
 ## Recent editorials
 
