@@ -8,26 +8,26 @@ author_profile: true
 ## Preprints
 Kim, H., Lux, B.K., Finn, E.S., & Woo, C.W. (2023). Getting personal: Brain decoding of spontaneous thought using personal narratives. *bioRxiv*. doi: 10.1101/2023.05.12.540141 [[link]](https://doi.org/10.1101/2023.05.12.540141)
 
-Iyer, S., Collier, E., **Finn, E.S.**, & Meyer, M.L. (2023). Negative affect homogenizes and positive affect diversifies social memory consolidation across people. *bioRxiv*. doi: 10.1101/2023.02.20.528994 [[link]](https://doi.org/10.1101/2023.02.20.528994)
+Iyer, S., Collier, E., Finn, E.S., & Meyer, M.L. (2023). Negative affect homogenizes and positive affect diversifies social memory consolidation across people. *bioRxiv*. doi: 10.1101/2023.02.20.528994 [[link]](https://doi.org/10.1101/2023.02.20.528994)
 
 ## Recent editorials
 
-Rosenberg, M.D., **& Finn, E.S.** (2022). How to establish robust brain–behavior relationships without thousands of individuals. *Nature Neuroscience*, *25*, 835–837. [[pdf]](https://thefinnlab.github.io/files/Rosenberg_Finn_NatureNeuro2022.pdf)
+Rosenberg, M.D., & Finn, E.S. (2022). How to establish robust brain–behavior relationships without thousands of individuals. *Nature Neuroscience*, *25*, 835–837. [[pdf]](https://thefinnlab.github.io/files/Rosenberg_Finn_NatureNeuro2022.pdf)
 
-**Botch, T.L.**, Robertson, C.E., & **Finn, E.S**. (2022). A deeper look at vision and memory. *Nature Neuroscience*, *25*, 8-10. [[pdf]](https://thefinnlab.github.io/files/Botch_Finn_Robertson_NNupdated2022.pdf)
+Botch, T.L., Robertson, C.E., & Finn, E.S. (2022). A deeper look at vision and memory. *Nature Neuroscience*, *25*, 8-10. [[pdf]](https://thefinnlab.github.io/files/Botch_Finn_Robertson_NNupdated2022.pdf)
 
-**Finn, E.S.**, Glerean, E., Hasson, U., & Vanderwal, T. (2021). Naturalistic Imaging: The use of ecologically valid conditions to study brain function. *NeuroImage*, *247*, Article 118776. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImageSI2021.pdf)
+Finn, E.S., Glerean, E., Hasson, U., & Vanderwal, T. (2021). Naturalistic Imaging: The use of ecologically valid conditions to study brain function. *NeuroImage*, *247*, Article 118776. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImageSI2021.pdf)
 
 ## Peer-reviewed publications
 
 2023
 ---
 ---
-Yang, E., Milisav, F., Kopal, J., Holmes, A.J., Mitsis, G.D., Misic, B., **Finn, E.S.**, & Bzdok, D. (2023). The default network dominates neural responses to evolving movie stories. *Nature Communications*, *14*(1), 4197. [[pdf]](https://thefinnlab.github.io/files/Bzdok_Finn_NatComm2023.pdf)
+Yang, E., Milisav, F., Kopal, J., Holmes, A.J., Mitsis, G.D., Misic, B., Finn, E.S., & Bzdok, D. (2023). The default network dominates neural responses to evolving movie stories. *Nature Communications*, *14*(1), 4197. [[pdf]](https://thefinnlab.github.io/files/Bzdok_Finn_NatComm2023.pdf)
 
-**Sava-Segal, C.**, Richards, C., **Leung, M.**, & **Finn, E.S.** (2023). Individual differences in neural event segmentation of continuous experiences. *Cerebral Cortex*, *33*(13), 8164-8178 [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_Cereb2023.pdf)
+Sava-Segal, C., Richards, C., Leung, M., & Finn, E.S. (2023). Individual differences in neural event segmentation of continuous experiences. *Cerebral Cortex*, *33*(13), 8164-8178 [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_Cereb2023.pdf)
 
-**Grall, C.**, **Equita, J.**, & **Finn, E.S.** (2023). Neural unscrambling of temporal information during a nonlinear narrative. *Cerebral Cortex*, *33*(11), 7001-7014 [[pdf]](https://thefinnlab.github.io/files/Grall_Finn_Cereb2023.pdf)
+Grall, C., Equita, J., & Finn, E.S. (2023). Neural unscrambling of temporal information during a nonlinear narrative. *Cerebral Cortex*, *33*(11), 7001-7014 [[pdf]](https://thefinnlab.github.io/files/Grall_Finn_Cereb2023.pdf)
 
 2022
 ---
