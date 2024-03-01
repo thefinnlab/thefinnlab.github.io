@@ -10,6 +10,8 @@ Kim, H., Lux, B.K., **Finn, E.S.**, & Woo, C.W. (2023). Getting personal: Brain 
 
 ## Recent editorials
 
+**Finn, E. S.**, Poldrack, R. A., & Shine, J. M. (2023). Functional neuroimaging as a catalyst for integrated neuroscience. *Nature*, *623*(7986), 263-273. [[pdf]](https://thefinnlab.github.io/files/Finn_etal_Nature2023.pdf)
+
 Rosenberg, M.D., & **Finn, E.S.** (2022). How to establish robust brain–behavior relationships without thousands of individuals. *Nature Neuroscience*, *25*, 835–837. [[pdf]](https://thefinnlab.github.io/files/Rosenberg_Finn_NatureNeuro2022.pdf)
 
 **Botch, T.L.**, Robertson, C.E., & **Finn, E.S.** (2022). A deeper look at vision and memory. *Nature Neuroscience*, *25*, 8-10. [[pdf]](https://thefinnlab.github.io/files/Botch_Finn_Robertson_NNupdated2022.pdf)
@@ -29,8 +31,6 @@ Iyer, S., Collier, E., Broom, T. W., **Finn, E. S.**, & Meyer, M. L. (2024). Ind
 ---
 ---
 Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Landi, N., Sun, H., Hoeft, F., Chen, G., Pugh, K., & Molfese, P. J. (2023). Inter-subject correlation during long narratives reveals widespread neural correlates of reading ability. *NeuroImage*, *282*, 120390. [[pdf]](https://thefinnlab.github.io/files/Jangraw_Finn_etal_NeuroImage2023.pdf)
-
-**Finn, E. S.**, Poldrack, R. A., & Shine, J. M. (2023). Functional neuroimaging as a catalyst for integrated neuroscience. *Nature*, *623*(7986), 263-273. [[pdf]](https://thefinnlab.github.io/files/Finn_etal_Nature2023.pdf)
 
 Yang, E., Milisav, F., Kopal, J., Holmes, A.J., Mitsis, G.D., Misic, B., **Finn, E.S.**, & Bzdok, D. (2023). The default network dominates neural responses to evolving movie stories. *Nature Communications*, *14*(1), 4197. [[pdf]](https://thefinnlab.github.io/files/Bzdok_Finn_NatComm2023.pdf)
 
