@@ -26,10 +26,10 @@ What makes us unique? How do our intrinsic traits bias our perceptions and judgm
             <div class="swiper-slide"><img src="https://thefinnlab.github.io/images/img-13.jpg"></div>
             <div class="swiper-slide"><img src="https://thefinnlab.github.io/images/img-2.jpg"></div>
             <div class="swiper-slide"><img src="https://thefinnlab.github.io/images/img-9.JPG"></div>
+            <div class="swiper-slide"><img src="https://thefinnlab.github.io/images/img-11.JPG"></div>
             <div class="swiper-slide"><img src="https://thefinnlab.github.io/images/img-3.jpg"></div>
             <div class="swiper-slide"><img src="https://thefinnlab.github.io/images/img-10.JPG"></div>
             <div class="swiper-slide"><img src="https://thefinnlab.github.io/images/img-6.HEIC"></div>
-            <div class="swiper-slide"><img src="https://thefinnlab.github.io/images/img-11.JPG"></div>
             <div class="swiper-slide"><img src="https://thefinnlab.github.io/images/img-7.JPG"></div>
             <div class="swiper-slide"><img src="https://thefinnlab.github.io/images/img-12.jpg"></div>
             <div class="swiper-slide"><img src="https://thefinnlab.github.io/images/img-8.jpg"></div>
