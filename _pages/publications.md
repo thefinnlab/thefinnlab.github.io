@@ -23,7 +23,7 @@ Rosenberg, M.D., & **Finn, E.S.** (2022). How to establish robust brain–behavi
 2024
 ---
 ---
-Botch, T. L., & Finn, E. S. (2024). Neural representations of concreteness and concrete concepts are specific to the individual. *The Journal of Neuroscience*, e0288242024. [[pdf]](https://thefinnlab.github.io/files/Botch_Finn_JNEUROSCI_2024.pdf)
+Botch, T. L., & **Finn, E. S.** (2024). Neural representations of concreteness and concrete concepts are specific to the individual. *The Journal of Neuroscience*, e0288242024. [[pdf]](https://thefinnlab.github.io/files/Botch_Finn_JNEUROSCI_2024.pdf)
 
 Wat, E. K., Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Preston, J. L., Landi, N., Hoeft, F., Frost, S., Lau, A., Chen, G., Pugh, K., & Molfese, P. J. (2024). Will you read how I will read? Naturalistic fMRI predictors of emergent reading. *Neuropsychologia*, *193*, 108763. [[pdf]](https://thefinnlab.github.io/files/Wat_Finn_etal_Neuropsychologia2024.pdf)
 
