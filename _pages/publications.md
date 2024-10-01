@@ -16,7 +16,7 @@ Rosenberg, M.D., & **Finn, E.S.** (2022). How to establish robust brain–behavi
 
 **Botch, T.L.**, Robertson, C.E., & **Finn, E.S.** (2022). A deeper look at vision and memory. *Nature Neuroscience*, *25*, 8-10. [[pdf]](https://thefinnlab.github.io/files/Botch_Finn_Robertson_NNupdated2022.pdf)
 
-**Finn, E.S.**, Glerean, E., Hasson, U., & Vanderwal, T. (2021). Naturalistic Imaging: The use of ecologically valid conditions to study brain function. *NeuroImage*, *247*, Article 118776. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImageSI2021.pdf)
+**Finn, E.S.**, Glerean, E., Hasson, U., & Vanderwal, T. (2021). Naturalistic Imaging: The use of ecologically valid conditions to study brain function. *NeuroImage*, *247*, Article 118776. [[pdf]](https://thefinnlab.github.io/files/botch_jneurosci_2024.pdf)
 
 ## Peer-reviewed publications
 
