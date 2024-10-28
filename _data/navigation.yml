@@ -10,7 +10,7 @@ main:
     url: /publications/
 
   - title: "Lab Updates"
-    url: /_pages/updates.html/
+    url: /updates/
 
   - title: "Lab Wiki"
     url: https://sites.google.com/view/finn-lab-wiki/wiki-home?authuser=0
