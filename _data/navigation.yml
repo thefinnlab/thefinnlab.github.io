@@ -8,12 +8,15 @@ main:
     
   - title: "Publications"
     url: /publications/
-    
-  - title: "Diversity and Outreach"
-    url: /diversity/
- 
-  - title: "Join us!"
-    url: /positions/ 
+
+  - title: "Lab Updates"
+    url: /lab-updates/
 
   - title: "Lab Wiki"
     url: https://sites.google.com/view/finn-lab-wiki/wiki-home?authuser=0
+
+  - title: "Diversity and Outreach"
+  url: /diversity/
+    
+  - title: "Join us!"
+    url: /positions/ 
