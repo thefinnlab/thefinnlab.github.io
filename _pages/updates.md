@@ -5,6 +5,27 @@ permalink: /updates/
 author_profile: true
 ---
 
+## **October 2024**
+- Postdoc Dr. Qi "Kay" Liang and PhD student Clara Sava-Segal give talks at SfN
+- PhD student Thomas Botch awarded a Neukom CompX grant (early)
+  
+## **September 2024**
+- PhD student Thomas Botch has a paper accepted to Journal of Neuroscience
+
+## **August 2024**
+- PhD student Kathryn O'Nell gives talk at CCN!
+- PhD student Thomas Botch attends CBMM summer school
+
+## **July 2024**
+- The FINN Lab welcomes new lab manager and full-time RA, Dallas Brodersen!
+- The FINN Lab says goodbye to lab manager and full-time RA, Tory Benson, who is headed to Rutgers to earn a PhD in Psychology
+
+## **June 2024**
+- Emily gives a keynote and a symposium talk at OHBM; Clara and Tommy present posters!
+
+## **May 2024**
+- PhD student Thomas Botch gives talk at ICLR!
+
 ## **August 2023**
 - The FINN Lab welcomes new full-time RA, Zishan Su!
 
