@@ -24,7 +24,7 @@ author_profile: true
 - Emily gives a keynote and a symposium talk at OHBM; Clara and Tommy present posters!
 
 ## **May 2024**
-- PhD student Thomas Botch gives talk at ICLR!
+- PhD student Thomas Botch presents at ICLR!
 
 ## **August 2023**
 - The FINN Lab welcomes new full-time RA, Zishan Su!
@@ -35,7 +35,7 @@ author_profile: true
 
 ## **June 2023**
 - PhD student Katie O'Nell presents at SPP!
-- Former Postdoc Dr. Clare Grall, former Lab Manager Josie Equita, & Dr. Emily Finn publish paper in Cerebral Cortex, along with Chandler Richards at NIH!
+- Former Postdoc Dr. Clare Grall, former Lab Manager Josie Equita, & Dr. Emily Finn publish paper in Cerebral Cortex
 
 ## **May 2023**
 - Postdoc Dr. Rekha Varrier presents at VSS!
@@ -46,7 +46,7 @@ author_profile: true
 
 ## **March 2023**
 - PhD students Clara Sava-Segal & Katie O'Nell nominated as Outstanding Grad Student Teachers!
-- PhD student Clara Sava-Segal, Undergraduate Megan Leung, & Dr. Emily Finn publish paper in Cerebral Cortex!
+- PhD student Clara Sava-Segal, Undergraduate Megan Leung, & Dr. Emily Finn publish paper in Cerebral Cortex, along with Chandler Richards at NIH!
 
 ## **February 2023**
 - Postdoc Dr. Rekha Varrier & Dr. Emily Finn's JNeuro paper featured in Spectrum News!
@@ -56,7 +56,7 @@ author_profile: true
 
 ## **November 2022**
 - Visiting PhD student Hongji Kim presents at SfN!
-- PhD student Clara Sava-Segal gives external lab meeting at Colubmia!
+- PhD student Clara Sava-Segal gives external lab meeting at Columbia!
 
 ## **October 2022**
 - Undergraduate RA Ash Chinta awarded leave-term grant!
