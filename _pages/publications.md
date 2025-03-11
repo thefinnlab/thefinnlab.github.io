@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Preprints
-Kim, H., Lux, B.K., **Finn, E.S.**, & Woo, C.W. (2023). Getting personal: Brain decoding of spontaneous thought using personal narratives. *bioRxiv*. doi: 10.1101/2023.05.12.540141 [[link]](https://doi.org/10.1101/2023.05.12.540141)
+
 
 ## Recent editorials
 
@@ -20,10 +20,17 @@ Rosenberg, M.D., & **Finn, E.S.** (2022). How to establish robust brain–behavi
 
 ## Peer-reviewed publications
 
+2025
+---
+---
+
+
 2024
 ---
 ---
 Botch, T. L., & **Finn, E. S.** (2024). Neural representations of concreteness and concrete concepts are specific to the individual. *The Journal of Neuroscience*, e0288242024. [PDF](https://drive.google.com/file/d/1D346gTDoo8qCbdn4FuABVtsfe9VQsOXH/view?usp=drive_link)
+
+Kim, H., Lux, B.K., Lee, E., **Finn, E.S.**, & Woo, C.W. (2024). Brain decoding of spontaneous thought: Predictive modeling of self-relevance and valence using personal narratives. *Proceedings of the National Academy of Sciences*, *121*(14), e2401959121. [[link]](https://doi.org/10.1073/pnas.2401959121)
 
 Wat, E. K., Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Preston, J. L., Landi, N., Hoeft, F., Frost, S., Lau, A., Chen, G., Pugh, K., & Molfese, P. J. (2024). Will you read how I will read? Naturalistic fMRI predictors of emergent reading. *Neuropsychologia*, *193*, 108763. [[pdf]](https://thefinnlab.github.io/files/Wat_Finn_etal_Neuropsychologia2024.pdf)
 
