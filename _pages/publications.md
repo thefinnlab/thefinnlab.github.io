@@ -10,14 +10,14 @@ author_profile: true
 
 Horien, C., Mandino, F., Greene, A.S., Shen, X., Powell, K., Vernetti, A., O’Connor, D., McPartland, J.C., Volkmar, F.R., Chun, M., Chawarska, K., Lake, E.M.R., Rosenberg, M.D., Satterthwaite, T., Scheinost, D., **Finn, E.S.**, & Constable, R.T. (2025). What is the best brain state to predict autistic traits?. *medRxiv*, 2025.01. 14.24319457. [[pdf]](https://thefinnlab.github.io/files/Horien_etal_medrxiv_2025-preprint.pdf)
 
-**Sava-Segal, C.**, Grall, C., & **Finn, E.S.** (2025). Narrative ‘twist’ shifts within-individual neural
+**Sava-Segal, C.**, **Grall, C.,** & **Finn, E.S.** (2025). Narrative ‘twist’ shifts within-individual neural
 representations of dissociable story features. *bioRxiv*, 2025.01.13.632631. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_etal_biorxiv_2025-preprint.pdf)
 
-Zugman, A., Ringlein, G.V., **Finn, E.S.**, Lewis, K.M., Berman E., Silverman, W.K., Lebowitz, E.R., Pine, D.S., & Winkler, A.M. (2024). Brain Functional Connectivity and Anatomical Features as Predictors of Cognitive Behavioral Therapy Outcome for Anxiety in Youths. *medRxiv*.  [[pdf]](https://thefinnlab.github.io/files/Zugman_etal_medRxiv_2024-preprint.pdf)
+Zugman, A., Ringlein, G.V., **Finn, E.S.**, Lewis, K.M., Berman E., Silverman, W.K., Lebowitz, E.R., Pine, D.S., & Winkler, A.M. (2024). Brain Functional Connectivity and Anatomical Features as Predictors of Cognitive Behavioral Therapy Outcome for Anxiety in Youths. *medRxiv*. 2024.01.29.24301959. [[pdf]](https://thefinnlab.github.io/files/Zugman_etal_medRxiv_2024-preprint.pdf)
 
 ## Recent editorials
 
-**Finn, E. S.**, Poldrack, R. A., & Shine, J. M. (2023). Functional neuroimaging as a catalyst for integrated neuroscience. *Nature*, *623*(7986), 263-273. [[pdf]](https://thefinnlab.github.io/files/Finn_etal_Nature2023.pdf)
+**Finn, E.S.**, Poldrack, R.A., & Shine, J.M. (2023). Functional neuroimaging as a catalyst for integrated neuroscience. *Nature*, *623*(7986), 263-273. [[pdf]](https://thefinnlab.github.io/files/Finn_etal_Nature2023.pdf)
 
 Rosenberg, M.D., & **Finn, E.S.** (2022). How to establish robust brain–behavior relationships without thousands of individuals. *Nature Neuroscience*, *25*, 835–837. [[pdf]](https://thefinnlab.github.io/files/Rosenberg_Finn_NatureNeuro2022.pdf)
 
@@ -35,20 +35,20 @@ Papantoni, A., Gearhardt, A.N., Yokum, S., Hoover, L.V., **Finn, E.S.**, Shearre
 2024
 ---
 ---
-**Botch, T. L.**, & **Finn, E. S.** (2024). Neural representations of concreteness and concrete concepts are specific to the individual. *The Journal of Neuroscience*, e0288242024. [PDF](https://drive.google.com/file/d/1D346gTDoo8qCbdn4FuABVtsfe9VQsOXH/view?usp=drive_link)
+**Botch, T. L.**, & **Finn, E.S.** (2024). Neural representations of concreteness and concrete concepts are specific to the individual. *The Journal of Neuroscience*, *44*(45),e0288242024. [[pdf]](https://drive.google.com/file/d/1D346gTDoo8qCbdn4FuABVtsfe9VQsOXH/view?usp=drive_link)
 
 Kim, H., Lux, B.K., Lee, E., **Finn, E.S.**, & Woo, C.W. (2024). Brain decoding of spontaneous thought: Predictive modeling of self-relevance and valence using personal narratives. *Proceedings of the National Academy of Sciences*, *121*(14), e2401959121.  [[pdf]](https://thefinnlab.github.io/files/Kim_etal_PNAS_2024.pdf)
 
-Wat, E. K., Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Preston, J. L., Landi, N., Hoeft, F., Frost, S., Lau, A., Chen, G., Pugh, K., & Molfese, P. J. (2024). Will you read how I will read? Naturalistic fMRI predictors of emergent reading. *Neuropsychologia*, *193*, 108763. [[pdf]](https://thefinnlab.github.io/files/Wat_Finn_etal_Neuropsychologia2024.pdf)
+Wat, E.K., Jangraw, D.C., **Finn, E.S.**, Bandettini, P.A., Preston, J.L., Landi, N., Hoeft, F., Frost, S., Lau, A., Chen, G., Pugh, K., & Molfese, P.J. (2024). Will you read how I will read? Naturalistic fMRI predictors of emergent reading. *Neuropsychologia*, *193*, 108763. [[pdf]](https://thefinnlab.github.io/files/Wat_Finn_etal_Neuropsychologia2024.pdf)
 
-Iyer, S., Collier, E., Broom, T. W., **Finn, E. S.**, & Meyer, M. L. (2024). Individuals who see the good in the bad engage distinctive default network coordination during post-encoding rest. *Proceedings of the National Academy of Sciences*, *121*(1), e2306295121. [[pdf]](https://thefinnlab.github.io/files/Iyer_Finn_etal_PNAS2024.pdf)
+Iyer, S., Collier, E., Broom, T.W., **Finn, E.S.**, & Meyer, M.L. (2024). Individuals who see the good in the bad engage distinctive default network coordination during post-encoding rest. *Proceedings of the National Academy of Sciences*, *121*(1), e2306295121. [[pdf]](https://thefinnlab.github.io/files/Iyer_Finn_etal_PNAS2024.pdf)
 
-**O'Nell, K.**, & **Finn, E. S.**. (2024). Pink noise in speakers' semantic synchrony dynamics as a metric of conversation quality. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. [[pdf]](https://thefinnlab.github.io/files/Katie_Emily_PAMCSS_2024.pdf)
+**O'Nell, K.**, & **Finn, E.S.**. (2024). Pink noise in speakers' semantic synchrony dynamics as a metric of conversation quality. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. [[pdf]](https://thefinnlab.github.io/files/Katie_Emily_PAMCSS_2024.pdf)
 
 2023
 ---
 ---
-Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Landi, N., Sun, H., Hoeft, F., Chen, G., Pugh, K., & Molfese, P. J. (2023). Inter-subject correlation during long narratives reveals widespread neural correlates of reading ability. *NeuroImage*, *282*, 120390. [[pdf]](https://thefinnlab.github.io/files/Jangraw_Finn_etal_NeuroImage2023.pdf)
+Jangraw, D.C., **Finn, E.S.**, Bandettini, P.A., Landi, N., Sun, H., Hoeft, F., Chen, G., Pugh, K., & Molfese, P.J. (2023). Inter-subject correlation during long narratives reveals widespread neural correlates of reading ability. *NeuroImage*, *282*, 120390. [[pdf]](https://thefinnlab.github.io/files/Jangraw_Finn_etal_NeuroImage2023.pdf)
 
 **Varrier, R.S.**, Sasaki, A.H., **Benson, T.G.**, Kumar, A.J., Selesnick, J.M., & **Finn, E. S.** (2023). Shared and individual thresholds for social signal detection. *Journal of Vision*, *23*(9), 4820-4820. [[pdf]](https://doi.org/10.1167/jov.23.9.4820)
 
