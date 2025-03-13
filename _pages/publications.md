@@ -10,7 +10,7 @@ author_profile: true
 
 Horien, C., Mandino, F., Greene, A.S., Shen, X., Powell, K., Vernetti, A., O’Connor, D., McPartland, J.C., Volkmar, F.R., Chun, M., Chawarska, K., Lake, E.M.R., Rosenberg, M.D., Satterthwaite, T., Scheinost, D., **Finn, E.S.**, & Constable, R.T. (2025). What is the best brain state to predict autistic traits?. *medRxiv*, 2025.01. 14.24319457. [[pdf]](https://thefinnlab.github.io/files/Horien_etal_medrxiv_2025-preprint.pdf)
 
-**Sava-Segal, C.**, **Finn, E.S.** (2025). Narrative ‘twist’ shifts within-individual neural
+**Sava-Segal, C.**, Grall, C., & **Finn, E.S.** (2025). Narrative ‘twist’ shifts within-individual neural
 representations of dissociable story features. *bioRxiv*, 2025.01.13.632631. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_etal_biorxiv_2025-preprint.pdf)
 
 Zugman, A., Ringlein, G.V., **Finn, E.S.**, Lewis, K.M., Berman E., Silverman, W.K., Lebowitz, E.R., Pine, D.S., & Winkler, A.M. (2024). Brain Functional Connectivity and Anatomical Features as Predictors of Cognitive Behavioral Therapy Outcome for Anxiety in Youths. *medRxiv*.  [[pdf]](https://thefinnlab.github.io/files/Zugman_etal_medRxiv_2024-preprint.pdf)
@@ -30,9 +30,7 @@ Rosenberg, M.D., & **Finn, E.S.** (2022). How to establish robust brain–behavi
 2025
 ---
 ---
-Papantoni, A., Gearhardt, A.N., Yokum, S., Hoover, L.V., **Finn, E.S.**, Shearrer, G.E., Taillie, L.S., Shaikh, S.R., Meyer, K.A., Burger, K.S., (2025). Connectome-wide brain signature during fast-food advertisement exposure predicts BMI at 2 years. *Social Cognitive and Affective Neuroscience*, *20*(1), nsaf018. [[pdf]](https://thefinnlab.github.io/files/Papantoni_etal_SCAN_2025.pdf)
-
-Saame Raza , Katie A Meyer, Kyle S Burger
+Papantoni, A., Gearhardt, A.N., Yokum, S., Hoover, L.V., **Finn, E.S.**, Shearrer, G.E., Taillie, L.S., Shaikh, S.R., Meyer, K.A., & Burger, K.S. (2025). Connectome-wide brain signature during fast-food advertisement exposure predicts BMI at 2 years. *Social Cognitive and Affective Neuroscience*, *20*(1), nsaf018. [[pdf]](https://thefinnlab.github.io/files/Papantoni_etal_SCAN_2025.pdf)
 
 2024
 ---
@@ -45,14 +43,14 @@ Wat, E. K., Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Preston, J. L., 
 
 Iyer, S., Collier, E., Broom, T. W., **Finn, E. S.**, & Meyer, M. L. (2024). Individuals who see the good in the bad engage distinctive default network coordination during post-encoding rest. *Proceedings of the National Academy of Sciences*, *121*(1), e2306295121. [[pdf]](https://thefinnlab.github.io/files/Iyer_Finn_etal_PNAS2024.pdf)
 
-**O'Nell, K.**, **Finn, E. S.**. (2024). Pink noise in speakers' semantic synchrony dynamics as a metric of conversation quality. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. [[pdf]](https://thefinnlab.github.io/files/Katie_Emily_PAMCSS_2024.pdf)
+**O'Nell, K.**, & **Finn, E. S.**. (2024). Pink noise in speakers' semantic synchrony dynamics as a metric of conversation quality. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. [[pdf]](https://thefinnlab.github.io/files/Katie_Emily_PAMCSS_2024.pdf)
 
 2023
 ---
 ---
 Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Landi, N., Sun, H., Hoeft, F., Chen, G., Pugh, K., & Molfese, P. J. (2023). Inter-subject correlation during long narratives reveals widespread neural correlates of reading ability. *NeuroImage*, *282*, 120390. [[pdf]](https://thefinnlab.github.io/files/Jangraw_Finn_etal_NeuroImage2023.pdf)
 
-**Varrier, R.S.**, Sasaki, A.H., **Benson, T.G.**, Kumar, A.J., Selesnick, J.M., **Finn, E. S.**. (2023). Shared and individual thresholds for social signal detection. *Journal of Vision*, *23*(9), 4820-4820. [[pdf]](https://doi.org/10.1167/jov.23.9.4820)
+**Varrier, R.S.**, Sasaki, A.H., **Benson, T.G.**, Kumar, A.J., Selesnick, J.M., & **Finn, E. S.** (2023). Shared and individual thresholds for social signal detection. *Journal of Vision*, *23*(9), 4820-4820. [[pdf]](https://doi.org/10.1167/jov.23.9.4820)
 
 Yang, E., Milisav, F., Kopal, J., Holmes, A.J., Mitsis, G.D., Misic, B., **Finn, E.S.**, & Bzdok, D. (2023). The default network dominates neural responses to evolving movie stories. *Nature Communications*, *14*(1), 4197. [[pdf]](https://thefinnlab.github.io/files/Bzdok_Finn_NatComm2023.pdf)
 
