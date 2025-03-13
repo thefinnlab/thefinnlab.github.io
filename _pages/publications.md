@@ -28,7 +28,7 @@ Rosenberg, M.D., & **Finn, E.S.** (2022). How to establish robust brain–behavi
 2024
 ---
 ---
-Botch, T. L., & **Finn, E. S.** (2024). Neural representations of concreteness and concrete concepts are specific to the individual. *The Journal of Neuroscience*, e0288242024. [PDF](https://drive.google.com/file/d/1D346gTDoo8qCbdn4FuABVtsfe9VQsOXH/view?usp=drive_link)
+**Botch, T. L.**, & **Finn, E. S.** (2024). Neural representations of concreteness and concrete concepts are specific to the individual. *The Journal of Neuroscience*, e0288242024. [PDF](https://drive.google.com/file/d/1D346gTDoo8qCbdn4FuABVtsfe9VQsOXH/view?usp=drive_link)
 
 Kim, H., Lux, B.K., Lee, E., **Finn, E.S.**, & Woo, C.W. (2024). Brain decoding of spontaneous thought: Predictive modeling of self-relevance and valence using personal narratives. *Proceedings of the National Academy of Sciences*, *121*(14), e2401959121. [[link]](https://doi.org/10.1073/pnas.2401959121)
 
@@ -36,10 +36,14 @@ Wat, E. K., Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Preston, J. L., 
 
 Iyer, S., Collier, E., Broom, T. W., **Finn, E. S.**, & Meyer, M. L. (2024). Individuals who see the good in the bad engage distinctive default network coordination during post-encoding rest. *Proceedings of the National Academy of Sciences*, *121*(1), e2306295121. [[pdf]](https://thefinnlab.github.io/files/Iyer_Finn_etal_PNAS2024.pdf)
 
+**O'Nell, K.**, **Finn, E. S.**. (2024). Pink noise in speakers' semantic synchrony dynamics as a metric of conversation quality. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. [[pdf]](https://escholarship.org/content/qt3q474016/qt3q474016.pdf)
+
 2023
 ---
 ---
 Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Landi, N., Sun, H., Hoeft, F., Chen, G., Pugh, K., & Molfese, P. J. (2023). Inter-subject correlation during long narratives reveals widespread neural correlates of reading ability. *NeuroImage*, *282*, 120390. [[pdf]](https://thefinnlab.github.io/files/Jangraw_Finn_etal_NeuroImage2023.pdf)
+
+**Varrier, R.S.**, Sasaki, A.H., **Benson, T.G.**, Kumar, A.J., Selesnick, J.M., **Finn, E. S.**. (2023). Shared and individual thresholds for social signal detection. *Journal of Vision*, *23*(9), 4820-4820. [[pdf]](https://doi.org/10.1167/jov.23.9.4820)
 
 Yang, E., Milisav, F., Kopal, J., Holmes, A.J., Mitsis, G.D., Misic, B., **Finn, E.S.**, & Bzdok, D. (2023). The default network dominates neural responses to evolving movie stories. *Nature Communications*, *14*(1), 4197. [[pdf]](https://thefinnlab.github.io/files/Bzdok_Finn_NatComm2023.pdf)
 
