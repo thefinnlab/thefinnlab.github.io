@@ -6,7 +6,14 @@ author_profile: true
 ---
 
 ## Preprints
+**Varrier, R.S.**, **Su, Z.**, **Liang, Q.**, **Benson, T.G.**, Jolly, E., & **Finn, E.S.** (2025). Shared and individual tuning curves for social vision. *bioRxiv*, 2025.01. 19.633772. [[pdf]](https://thefinnlab.github.io/files/Varrier_etal_biorxiv_2025-preprint.pdf)
 
+Horien, C., Mandino, F., Greene, A.S., Shen, X., Powell, K., Vernetti, A., O’Connor, D., McPartland, J.C., Volkmar, F.R., Chun, M., Chawarska, K., Lake, E.M.R., Rosenberg, M.D., Satterthwaite, T., Scheinost, D., **Finn, E.S.**, & Constable, R.T. (2025). What is the best brain state to predict autistic traits?. *medRxiv*, 2025.01. 14.24319457. [[pdf]](https://thefinnlab.github.io/files/Horien_etal_medrxiv_2025-preprint.pdf)
+
+**Sava-Segal, C.**, **Finn, E.S.** (2025). Narrative ‘twist’ shifts within-individual neural
+representations of dissociable story features. *bioRxiv*, 2025.01.13.632631. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_etal_biorxiv_2025-preprint.pdf)
+
+Zugman, A., Ringlein, G.V., **Finn, E.S.**, Lewis, K.M., Berman E., Silverman, W.K., Lebowitz, E.R., Pine, D.S., & Winkler, A.M. (2024). Brain Functional Connectivity and Anatomical Features as Predictors of Cognitive Behavioral Therapy Outcome for Anxiety in Youths. *medRxiv*.  [[pdf]](https://thefinnlab.github.io/files/Zugman_etal_medRxiv_2024-preprint.pdf)
 
 ## Recent editorials
 
@@ -23,20 +30,22 @@ Rosenberg, M.D., & **Finn, E.S.** (2022). How to establish robust brain–behavi
 2025
 ---
 ---
+Papantoni, A., Gearhardt, A.N., Yokum, S., Hoover, L.V., **Finn, E.S.**, Shearrer, G.E., Taillie, L.S., Shaikh, S.R., Meyer, K.A., Burger, K.S., (2025). Connectome-wide brain signature during fast-food advertisement exposure predicts BMI at 2 years. *Social Cognitive and Affective Neuroscience*, *20*(1), nsaf018. [[pdf]](https://thefinnlab.github.io/files/Papantoni_etal_SCAN_2025.pdf)
 
+Saame Raza , Katie A Meyer, Kyle S Burger
 
 2024
 ---
 ---
 **Botch, T. L.**, & **Finn, E. S.** (2024). Neural representations of concreteness and concrete concepts are specific to the individual. *The Journal of Neuroscience*, e0288242024. [PDF](https://drive.google.com/file/d/1D346gTDoo8qCbdn4FuABVtsfe9VQsOXH/view?usp=drive_link)
 
-Kim, H., Lux, B.K., Lee, E., **Finn, E.S.**, & Woo, C.W. (2024). Brain decoding of spontaneous thought: Predictive modeling of self-relevance and valence using personal narratives. *Proceedings of the National Academy of Sciences*, *121*(14), e2401959121. [[link]](https://doi.org/10.1073/pnas.2401959121)
+Kim, H., Lux, B.K., Lee, E., **Finn, E.S.**, & Woo, C.W. (2024). Brain decoding of spontaneous thought: Predictive modeling of self-relevance and valence using personal narratives. *Proceedings of the National Academy of Sciences*, *121*(14), e2401959121.  [[pdf]](https://thefinnlab.github.io/files/Kim_etal_PNAS_2024.pdf)
 
 Wat, E. K., Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Preston, J. L., Landi, N., Hoeft, F., Frost, S., Lau, A., Chen, G., Pugh, K., & Molfese, P. J. (2024). Will you read how I will read? Naturalistic fMRI predictors of emergent reading. *Neuropsychologia*, *193*, 108763. [[pdf]](https://thefinnlab.github.io/files/Wat_Finn_etal_Neuropsychologia2024.pdf)
 
 Iyer, S., Collier, E., Broom, T. W., **Finn, E. S.**, & Meyer, M. L. (2024). Individuals who see the good in the bad engage distinctive default network coordination during post-encoding rest. *Proceedings of the National Academy of Sciences*, *121*(1), e2306295121. [[pdf]](https://thefinnlab.github.io/files/Iyer_Finn_etal_PNAS2024.pdf)
 
-**O'Nell, K.**, **Finn, E. S.**. (2024). Pink noise in speakers' semantic synchrony dynamics as a metric of conversation quality. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. [[pdf]](https://escholarship.org/content/qt3q474016/qt3q474016.pdf)
+**O'Nell, K.**, **Finn, E. S.**. (2024). Pink noise in speakers' semantic synchrony dynamics as a metric of conversation quality. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. [[pdf]](https://thefinnlab.github.io/files/Katie_Emily_PAMCSS_2024.pdf)
 
 2023
 ---
@@ -47,7 +56,7 @@ Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Landi, N., Sun, H., Hoeft, F
 
 Yang, E., Milisav, F., Kopal, J., Holmes, A.J., Mitsis, G.D., Misic, B., **Finn, E.S.**, & Bzdok, D. (2023). The default network dominates neural responses to evolving movie stories. *Nature Communications*, *14*(1), 4197. [[pdf]](https://thefinnlab.github.io/files/Bzdok_Finn_NatComm2023.pdf)
 
-**Sava-Segal, C.**, Richards, C., **Leung, M.**, & **Finn, E.S.** (2023). Individual differences in neural event segmentation of continuous experiences. *Cerebral Cortex*, *33*(13), 8164-8178 [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_Cereb2023.pdf)
+**Sava-Segal, C.**, Richards, C., **Leung, M.**, & **Finn, E.S.** (2023). Individual differences in neural event segmentation of continuous experiences. *Cerebral Cortex*, *33*(13), 8164-8178. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_Cereb2023.pdf)
 
 **Grall, C.**, **Equita, J.**, & **Finn, E.S.** (2023). Neural unscrambling of temporal information during a nonlinear narrative. *Cerebral Cortex*, *33*(11), 7001-7014 [[pdf]](https://thefinnlab.github.io/files/Grall_Finn_Cereb2023.pdf)
 
