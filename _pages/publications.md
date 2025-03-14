@@ -50,8 +50,6 @@ Iyer, S., Collier, E., Broom, T.W., **Finn, E.S.**, & Meyer, M.L. (2024). Indivi
 ---
 Jangraw, D.C., **Finn, E.S.**, Bandettini, P.A., Landi, N., Sun, H., Hoeft, F., Chen, G., Pugh, K., & Molfese, P.J. (2023). Inter-subject correlation during long narratives reveals widespread neural correlates of reading ability. *NeuroImage*, *282*, 120390. [[pdf]](https://thefinnlab.github.io/files/Jangraw_Finn_etal_NeuroImage2023.pdf)
 
-**Varrier, R.S.**, Sasaki, A.H., **Benson, T.G.**, Kumar, A.J., Selesnick, J.M., & **Finn, E. S.** (2023). Shared and individual thresholds for social signal detection. *Journal of Vision*, *23*(9), 4820-4820. [[pdf]](https://doi.org/10.1167/jov.23.9.4820)
-
 Yang, E., Milisav, F., Kopal, J., Holmes, A.J., Mitsis, G.D., Misic, B., **Finn, E.S.**, & Bzdok, D. (2023). The default network dominates neural responses to evolving movie stories. *Nature Communications*, *14*(1), 4197. [[pdf]](https://thefinnlab.github.io/files/Bzdok_Finn_NatComm2023.pdf)
 
 **Sava-Segal, C.**, Richards, C., **Leung, M.**, & **Finn, E.S.** (2023). Individual differences in neural event segmentation of continuous experiences. *Cerebral Cortex*, *33*(13), 8164-8178. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_Cereb2023.pdf)
