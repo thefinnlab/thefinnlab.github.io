@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Preprints
+**O'Nell, K.**, Sanchez, K.L., **Finn, E.S.** (2025). Complex mutual adaptation in dyads’ semantic similarity trajectories predicts conversation success. *OSF*, 2025.03. [[pdf]](https://thefinnlab.github.io/files/ONell_Sanchez_Finn-pinknoise_preprint-2025.pdf)
+
 **Varrier, R.S.**, **Su, Z.**, **Liang, Q.**, **Benson, T.G.**, Jolly, E., & **Finn, E.S.** (2025). Shared and individual tuning curves for social vision. *bioRxiv*, 2025.01. 19.633772. [[pdf]](https://thefinnlab.github.io/files/Varrier_etal_biorxiv_2025-preprint.pdf)
 
 Horien, C., Mandino, F., Greene, A.S., Shen, X., Powell, K., Vernetti, A., O’Connor, D., McPartland, J.C., Volkmar, F.R., Chun, M., Chawarska, K., Lake, E.M.R., Rosenberg, M.D., Satterthwaite, T., Scheinost, D., **Finn, E.S.**, & Constable, R.T. (2025). What is the best brain state to predict autistic traits?. *medRxiv*, 2025.01. 14.24319457. [[pdf]](https://thefinnlab.github.io/files/Horien_etal_medrxiv_2025-preprint.pdf)
