@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Preprints
+**Botch, T. L.**, & **Finn, E.S.** (2025). Sensory context as a universal principle of language in humans and LLMs. *OSF*, 2025.05. [[pdf]](https://drive.google.com/file/d/19fnY6LXnzUo_5GaVkZRZuKL0xLoTNWVH/view?usp=drive_link)
+
 **O'Nell, K.**, Sanchez, K.L., **Finn, E.S.** (2025). Complex mutual adaptation in dyads’ semantic similarity trajectories predicts conversation success. *OSF*, 2025.03. [[pdf]](https://thefinnlab.github.io/files/ONell_Sanchez_Finn-pinknoise_preprint-2025.pdf)
 
 **Varrier, R.S.**, **Su, Z.**, **Liang, Q.**, **Benson, T.G.**, Jolly, E., & **Finn, E.S.** (2025). Shared and individual tuning curves for social vision. *bioRxiv*, 2025.01. 19.633772. [[pdf]](https://thefinnlab.github.io/files/Varrier_etal_biorxiv_2025-preprint.pdf)
