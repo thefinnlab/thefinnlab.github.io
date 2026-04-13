@@ -6,18 +6,15 @@ author_profile: true
 ---
 
 ## Preprints
+**Liang, Q.**, **Su, Z.**, **Varrier, R. S.**, **Jolly, E.**, & **Finn, E. S.** (2026). Agency boosts sensitivity to social interactions through active information seeking. *OSF*, 2026.03. [[pdf]](https://thefinnlab.github.io/files/Liang_Finn_osf2026.pdf)
+
 **Botch, T. L.**, & **Finn, E.S.** (2025). Sensory context as a universal principle of language in humans and LLMs. *OSF*, 2025.05. [[pdf]](https://drive.google.com/file/d/19fnY6LXnzUo_5GaVkZRZuKL0xLoTNWVH/view?usp=drive_link)
 
 **O'Nell, K.**, Sanchez, K.L., **Finn, E.S.** (2025). Complex mutual adaptation in dyads’ semantic similarity trajectories predicts conversation success. *OSF*, 2025.03. [[pdf]](https://thefinnlab.github.io/files/ONell_Sanchez_Finn-pinknoise_preprint-2025.pdf)
 
-**Varrier, R.S.**, **Su, Z.**, **Liang, Q.**, **Benson, T.G.**, Jolly, E., & **Finn, E.S.** (2025). Shared and individual tuning curves for social vision. *bioRxiv*, 2025.01. 19.633772. [[pdf]](https://thefinnlab.github.io/files/Varrier_etal_biorxiv_2025-preprint.pdf)
+**Varrier, R.S.**, **Su, Z.**, **Liang, Q.**, **Benson, T.G.**, **Jolly, E.**, & **Finn, E.S.** (2025). Shared and individual tuning curves for social vision. *bioRxiv*, 2025.01. 19.633772. [[pdf]](https://thefinnlab.github.io/files/Varrier_etal_biorxiv_2025-preprint.pdf)
 
 Horien, C., Mandino, F., Greene, A.S., Shen, X., Powell, K., Vernetti, A., O’Connor, D., McPartland, J.C., Volkmar, F.R., Chun, M., Chawarska, K., Lake, E.M.R., Rosenberg, M.D., Satterthwaite, T., Scheinost, D., **Finn, E.S.**, & Constable, R.T. (2025). What is the best brain state to predict autistic traits?. *medRxiv*, 2025.01. 14.24319457. [[pdf]](https://thefinnlab.github.io/files/Horien_etal_medrxiv_2025-preprint.pdf)
-
-**Sava-Segal, C.**, **Grall, C.**, & **Finn, E.S.** (2025). Narrative ‘twist’ shifts within-individual neural
-representations of dissociable story features. *bioRxiv*, 2025.01.13.632631. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_etal_biorxiv_2025-preprint.pdf)
-
-Zugman, A., Ringlein, G.V., **Finn, E.S.**, Lewis, K.M., Berman E., Silverman, W.K., Lebowitz, E.R., Pine, D.S., & Winkler, A.M. (2024). Brain Functional Connectivity and Anatomical Features as Predictors of Cognitive Behavioral Therapy Outcome for Anxiety in Youths. *medRxiv*. 2024.01.29.24301959. [[pdf]](https://thefinnlab.github.io/files/Zugman_etal_medRxiv_2024-preprint.pdf)
 
 ## Recent editorials
 
@@ -31,10 +28,19 @@ Rosenberg, M.D., & **Finn, E.S.** (2022). How to establish robust brain–behavi
 
 ## Peer-reviewed publications
 
+2026
+---
+---
+**Sava-Segal, C.**, **Grall, C.**, & **Finn, E. S.** (2026). Narrative “twist” shifts within-individual neural representations of dissociable story features. *Proceedings of the National Academy of Sciences*, *123*(11), e2512071123. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_PNAS2026.pdf)
+
 2025
 ---
 ---
+Bruno, J. L., Plank, J. R., Leder, S., Lake, E. M., **Finn, E. S.**, & Green, T. (2025). Transdiagnostic similarities and distinctions in brain networks associated with autistic social impairments: a prospective cohort study. *Molecular Autism*, *16*(1), 56. [[pdf]](https://thefinnlab.github.io/files/Bruno_Finn_MolecularAutism2025.pdf)
+
 Papantoni, A., Gearhardt, A.N., Yokum, S., Hoover, L.V., **Finn, E.S.**, Shearrer, G.E., Taillie, L.S., Shaikh, S.R., Meyer, K.A., & Burger, K.S. (2025). Connectome-wide brain signature during fast-food advertisement exposure predicts BMI at 2 years. *Social Cognitive and Affective Neuroscience*, *20*(1), nsaf018. [[pdf]](https://thefinnlab.github.io/files/Papantoni_etal_SCAN_2025.pdf)
+
+Zugman, A., Ringlein, G. V., **Finn, E. S.**, Lewis, K. M., Berman, E., Silverman, W. K., Lebowitz, E. R., Pine, D. S., & Winkler, A. M. (2025). Brain functional connectivity and anatomical features as predictors of cognitive behavioral therapy outcome for anxiety in youths. *Psychological Medicine*, *55*, e91. [[pdf]](https://thefinnlab.github.io/files/Zugman_Finn_PsychologicalMedicine2025.pdf)
 
 2024
 ---
