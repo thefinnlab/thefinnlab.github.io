@@ -5,6 +5,18 @@ permalink: /updates/
 author_profile: true
 ---
 
+## **March 2025**
+- Dr. Emily Finn gives a Young Investigator Award talk and a symposium talk at CNS; PhD students Clara Sava-Segal & Postdoc Dr. Qi "Kay" Liang present posters; Undergraduate RA Ash Chinta presents a data blitz talk!
+
+## **January 2025**
+- Dr. Emily Finn awarded CNS Young Investigator Award!
+
+## **December 2024**
+- PhD student Clara Sava-Segal awarded Arts Integration Grant!
+
+## **November 2024**
+- Undergraduate RA Ash Chinta awarded thesis grant!
+
 ## **October 2024**
 - Postdoc Dr. Qi "Kay" Liang and PhD student Clara Sava-Segal give talks at SfN
 - PhD student Thomas Botch awarded a Neukom CompX grant (early)
@@ -18,10 +30,10 @@ author_profile: true
 
 ## **July 2024**
 - The FINN Lab welcomes new lab manager and full-time RA, Dallas Brodersen!
-- The FINN Lab says goodbye to lab manager and full-time RA, Tory Benson, who is headed to Rutgers to earn a PhD in Psychology
+- The FINN Lab says goodbye to lab manager and full-time RA, Tory Benson, who is headed to Rutgers to earn a PhD in Psychology!
 
 ## **June 2024**
-- Emily gives a keynote and a symposium talk at OHBM; Clara and Tommy present posters!
+- Dr. Emily Finn gives a keynote and a symposium talk at OHBM; PhD students Clara Sava-Segal & Thomas Botch present posters!
 
 ## **May 2024**
 - PhD student Thomas Botch presents at ICLR!
@@ -113,23 +125,3 @@ author_profile: true
 ## **March 2021**
 - PhD student Clara Sava-Segal awarded NSF Graduate Research Fellowship!
 - Dr. Emily Finn named APS Rising Star!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
