@@ -5,8 +5,28 @@ permalink: /updates/
 author_profile: true
 ---
 
+## **March 2026**
+- Former Postdoc Dr. Rekha Varrier, former full-time RA Zishan Su, Postdoc Dr. Qi Liang, former Lab Manager Tory Benson, former Postdoc Dr. Eshin Jolly, & Dr. Emily Finn publish paper in OPMI!
+
+## **February 2026**
+- PhD student Clara Sava-Segal, Former Postdoc Dr. Clare Grall, & Dr. Emily Finn publish paper in PNAS!
+- Undergraduate RA Kalina Duncheva awarded Neukom Spring Scholar!
+
+## **January 2026**
+- Dr. Emily Finn awarded APS Janet Taylor Spence award!
+
+## **June 2025**
+- PhD student Kathryn O'Nell awarded Marie A. Center 1982 Award for Excellence in Teaching!
+- PhD student Kathryn O'Nell attends Santa Fe Institute (SFI) Complex Systems Summer School
+
+## **May 2025**
+- Undergraduate RA Kalina Duncheva awarded Waterhouse research award!
+
+## **April 2025**
+- PhD student Kathryn O'Nell nominated as Outstanding Grad Student Teachers!
+
 ## **March 2025**
-- Dr. Emily Finn gives a Young Investigator Award talk and a symposium talk at CNS; PhD students Clara Sava-Segal & Postdoc Dr. Qi "Kay" Liang present posters; Undergraduate RA Ash Chinta presents a data blitz talk!
+- Dr. Emily Finn gives a Young Investigator Award talk and a symposium talk at CNS; PhD students Clara Sava-Segal & Postdoc Dr. Qi Liang present posters; Undergraduate RA Ash Chinta presents a data blitz talk
 
 ## **January 2025**
 - Dr. Emily Finn awarded CNS Young Investigator Award!
@@ -18,8 +38,8 @@ author_profile: true
 - Undergraduate RA Ash Chinta awarded thesis grant!
 
 ## **October 2024**
-- Postdoc Dr. Qi "Kay" Liang and PhD student Clara Sava-Segal give talks at SfN
-- PhD student Thomas Botch awarded a Neukom CompX grant (early)
+- Postdoc Dr. Qi Liang and PhD student Clara Sava-Segal give talks at SfN
+- PhD student Thomas Botch awarded a Neukom CompX grant (early)!
   
 ## **September 2024**
 - PhD student Thomas Botch has a paper accepted to Journal of Neuroscience
@@ -79,7 +99,7 @@ author_profile: true
 
 ## **August 2022**
 - PhD student Clara Sava-Segal attends Neurohack!
-- Undergrad AK Ray awarded leave-term grant!
+- Undergraduate AK Ray awarded leave-term grant!
 - The FINN Lab welcomes new Lab Manager/full-time RA, Tory Benson!
 
 ## **July 2022**
