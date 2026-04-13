@@ -8,23 +8,23 @@ author_profile: true
 ## Preprints
 **Liang, Q.**, **Su, Z.**, **Varrier, R. S.**, **Jolly, E.**, & **Finn, E. S.** (2026). Agency boosts sensitivity to social interactions through active information seeking. *OSF*, 2026.03. [[pdf]](https://thefinnlab.github.io/files/Liang_Finn_osf2026.pdf)
 
-**Botch, T. L.**, & **Finn, E.S.** (2025). Sensory context as a universal principle of language in humans and LLMs. *OSF*, 2025.05. [[pdf]](https://drive.google.com/file/d/19fnY6LXnzUo_5GaVkZRZuKL0xLoTNWVH/view?usp=drive_link)
+**Botch, T. L.**, & **Finn, E. S.** (2025). Sensory context as a universal principle of language in humans and LLMs. *OSF*, 2025.05. [[pdf]](https://drive.google.com/file/d/19fnY6LXnzUo_5GaVkZRZuKL0xLoTNWVH/view?usp=drive_link)
 
-**O'Nell, K.**, Sanchez, K.L., **Finn, E.S.** (2025). Complex mutual adaptation in dyads’ semantic similarity trajectories predicts conversation success. *OSF*, 2025.03. [[pdf]](https://thefinnlab.github.io/files/ONell_Sanchez_Finn-pinknoise_preprint-2025.pdf)
+**O'Nell, K.**, Sanchez, K. L., **Finn, E. S.** (2025). Complex mutual adaptation in dyads’ semantic similarity trajectories predicts conversation success. *OSF*, 2025.03. [[pdf]](https://thefinnlab.github.io/files/ONell_Sanchez_Finn-pinknoise_preprint-2025.pdf)
 
-**Varrier, R.S.**, **Su, Z.**, **Liang, Q.**, **Benson, T.G.**, **Jolly, E.**, & **Finn, E.S.** (2025). Shared and individual tuning curves for social vision. *bioRxiv*, 2025.01. 19.633772. [[pdf]](https://thefinnlab.github.io/files/Varrier_etal_biorxiv_2025-preprint.pdf)
+**Varrier, R. S.**, **Su, Z.**, **Liang, Q.**, **Benson, T. G.**, **Jolly, E.**, & **Finn, E. S.** (2025). Shared and individual tuning curves for social vision. *bioRxiv*, 2025.01. 19.633772. [[pdf]](https://thefinnlab.github.io/files/Varrier_etal_biorxiv_2025-preprint.pdf)
 
-Horien, C., Mandino, F., Greene, A.S., Shen, X., Powell, K., Vernetti, A., O’Connor, D., McPartland, J.C., Volkmar, F.R., Chun, M., Chawarska, K., Lake, E.M.R., Rosenberg, M.D., Satterthwaite, T., Scheinost, D., **Finn, E.S.**, & Constable, R.T. (2025). What is the best brain state to predict autistic traits?. *medRxiv*, 2025.01. 14.24319457. [[pdf]](https://thefinnlab.github.io/files/Horien_etal_medrxiv_2025-preprint.pdf)
+Horien, C., Mandino, F., Greene, A. S., Shen, X., Powell, K., Vernetti, A., O’Connor, D., McPartland, J. C., Volkmar, F. R., Chun, M., Chawarska, K., Lake, E. M. R., Rosenberg, M. D., Satterthwaite, T., Scheinost, D., **Finn, E. S.**, & Constable, R. T. (2025). What is the best brain state to predict autistic traits?. *medRxiv*, 2025.01. 14.24319457. [[pdf]](https://thefinnlab.github.io/files/Horien_etal_medrxiv_2025-preprint.pdf)
 
 ## Recent editorials
 
-**Finn, E.S.**, Poldrack, R.A., & Shine, J.M. (2023). Functional neuroimaging as a catalyst for integrated neuroscience. *Nature*, *623*(7986), 263-273. [[pdf]](https://thefinnlab.github.io/files/Finn_etal_Nature2023.pdf)
+**Finn, E. S.**, Poldrack, R. A., & Shine, J. M. (2023). Functional neuroimaging as a catalyst for integrated neuroscience. *Nature*, *623*(7986), 263-273. [[pdf]](https://thefinnlab.github.io/files/Finn_etal_Nature2023.pdf)
 
-Rosenberg, M.D., & **Finn, E.S.** (2022). How to establish robust brain–behavior relationships without thousands of individuals. *Nature Neuroscience*, *25*, 835–837. [[pdf]](https://thefinnlab.github.io/files/Rosenberg_Finn_NatureNeuro2022.pdf)
+Rosenberg, M. D., & **Finn, E. S.** (2022). How to establish robust brain–behavior relationships without thousands of individuals. *Nature Neuroscience*, *25*, 835–837. [[pdf]](https://thefinnlab.github.io/files/Rosenberg_Finn_NatureNeuro2022.pdf)
 
-**Botch, T.L.**, Robertson, C.E., & **Finn, E.S.** (2022). A deeper look at vision and memory. *Nature Neuroscience*, *25*, 8-10. [[pdf]](https://thefinnlab.github.io/files/Botch_Finn_Robertson_NNupdated2022.pdf)
+**Botch, T. L.**, Robertson, C. E., & **Finn, E. S.** (2022). A deeper look at vision and memory. *Nature Neuroscience*, *25*, 8-10. [[pdf]](https://thefinnlab.github.io/files/Botch_Finn_Robertson_NNupdated2022.pdf)
 
-**Finn, E.S.**, Glerean, E., Hasson, U., & Vanderwal, T. (2021). Naturalistic Imaging: The use of ecologically valid conditions to study brain function. *NeuroImage*, *247*, Article 118776. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImageSI2021.pdf)
+**Finn, E. S.**, Glerean, E., Hasson, U., & Vanderwal, T. (2021). Naturalistic Imaging: The use of ecologically valid conditions to study brain function. *NeuroImage*, *247*, Article 118776. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImageSI2021.pdf)
 
 ## Peer-reviewed publications
 
@@ -38,95 +38,95 @@ Rosenberg, M.D., & **Finn, E.S.** (2022). How to establish robust brain–behavi
 ---
 Bruno, J. L., Plank, J. R., Leder, S., Lake, E. M., **Finn, E. S.**, & Green, T. (2025). Transdiagnostic similarities and distinctions in brain networks associated with autistic social impairments: a prospective cohort study. *Molecular Autism*, *16*(1), 56. [[pdf]](https://thefinnlab.github.io/files/Bruno_Finn_MolecularAutism2025.pdf)
 
-Papantoni, A., Gearhardt, A.N., Yokum, S., Hoover, L.V., **Finn, E.S.**, Shearrer, G.E., Taillie, L.S., Shaikh, S.R., Meyer, K.A., & Burger, K.S. (2025). Connectome-wide brain signature during fast-food advertisement exposure predicts BMI at 2 years. *Social Cognitive and Affective Neuroscience*, *20*(1), nsaf018. [[pdf]](https://thefinnlab.github.io/files/Papantoni_etal_SCAN_2025.pdf)
+Papantoni, A., Gearhardt, A. N., Yokum, S., Hoover, L. V., **Finn, E. S.**, Shearrer, G.E., Taillie, L.S., Shaikh, S.R., Meyer, K.A., & Burger, K.S. (2025). Connectome-wide brain signature during fast-food advertisement exposure predicts BMI at 2 years. *Social Cognitive and Affective Neuroscience*, *20*(1), nsaf018. [[pdf]](https://thefinnlab.github.io/files/Papantoni_etal_SCAN_2025.pdf)
 
 Zugman, A., Ringlein, G. V., **Finn, E. S.**, Lewis, K. M., Berman, E., Silverman, W. K., Lebowitz, E. R., Pine, D. S., & Winkler, A. M. (2025). Brain functional connectivity and anatomical features as predictors of cognitive behavioral therapy outcome for anxiety in youths. *Psychological Medicine*, *55*, e91. [[pdf]](https://thefinnlab.github.io/files/Zugman_Finn_PsychologicalMedicine2025.pdf)
 
 2024
 ---
 ---
-**Botch, T. L.**, & **Finn, E.S.** (2024). Neural representations of concreteness and concrete concepts are specific to the individual. *The Journal of Neuroscience*, *44*(45), e0288242024. [[pdf]](https://drive.google.com/file/d/1D346gTDoo8qCbdn4FuABVtsfe9VQsOXH/view?usp=drive_link)
+**Botch, T. L.**, & **Finn, E. S.** (2024). Neural representations of concreteness and concrete concepts are specific to the individual. *The Journal of Neuroscience*, *44*(45), e0288242024. [[pdf]](https://drive.google.com/file/d/1D346gTDoo8qCbdn4FuABVtsfe9VQsOXH/view?usp=drive_link)
 
-Kim, H., Lux, B.K., Lee, E., **Finn, E.S.**, & Woo, C.W. (2024). Brain decoding of spontaneous thought: Predictive modeling of self-relevance and valence using personal narratives. *Proceedings of the National Academy of Sciences*, *121*(14), e2401959121.  [[pdf]](https://thefinnlab.github.io/files/Kim_etal_PNAS_2024.pdf)
+Kim, H., Lux, B.K., Lee, E., **Finn, E. S.**, & Woo, C. W. (2024). Brain decoding of spontaneous thought: Predictive modeling of self-relevance and valence using personal narratives. *Proceedings of the National Academy of Sciences*, *121*(14), e2401959121.  [[pdf]](https://thefinnlab.github.io/files/Kim_etal_PNAS_2024.pdf)
 
-Wat, E.K., Jangraw, D.C., **Finn, E.S.**, Bandettini, P.A., Preston, J.L., Landi, N., Hoeft, F., Frost, S., Lau, A., Chen, G., Pugh, K., & Molfese, P.J. (2024). Will you read how I will read? Naturalistic fMRI predictors of emergent reading. *Neuropsychologia*, *193*, 108763. [[pdf]](https://thefinnlab.github.io/files/Wat_Finn_etal_Neuropsychologia2024.pdf)
+Wat, E. K., Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Preston, J. L., Landi, N., Hoeft, F., Frost, S., Lau, A., Chen, G., Pugh, K., & Molfese, P. J. (2024). Will you read how I will read? Naturalistic fMRI predictors of emergent reading. *Neuropsychologia*, *193*, 108763. [[pdf]](https://thefinnlab.github.io/files/Wat_Finn_etal_Neuropsychologia2024.pdf)
 
-Iyer, S., Collier, E., Broom, T.W., **Finn, E.S.**, & Meyer, M.L. (2024). Individuals who see the good in the bad engage distinctive default network coordination during post-encoding rest. *Proceedings of the National Academy of Sciences*, *121*(1), e2306295121. [[pdf]](https://thefinnlab.github.io/files/Iyer_Finn_etal_PNAS2024.pdf)
+Iyer, S., Collier, E., Broom, T. W., **Finn, E. S.**, & Meyer, M. L. (2024). Individuals who see the good in the bad engage distinctive default network coordination during post-encoding rest. *Proceedings of the National Academy of Sciences*, *121*(1), e2306295121. [[pdf]](https://thefinnlab.github.io/files/Iyer_Finn_etal_PNAS2024.pdf)
 
-**O'Nell, K.**, & **Finn, E.S.** (2024). Pink noise in speakers' semantic synchrony dynamics as a metric of conversation quality. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. [[pdf]](https://thefinnlab.github.io/files/Katie_Emily_PAMCSS_2024.pdf)
+**O'Nell, K.**, & **Finn, E. S.** (2024). Pink noise in speakers' semantic synchrony dynamics as a metric of conversation quality. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. [[pdf]](https://thefinnlab.github.io/files/Katie_Emily_PAMCSS_2024.pdf)
 
 2023
 ---
 ---
-Jangraw, D.C., **Finn, E.S.**, Bandettini, P.A., Landi, N., Sun, H., Hoeft, F., Chen, G., Pugh, K., & Molfese, P.J. (2023). Inter-subject correlation during long narratives reveals widespread neural correlates of reading ability. *NeuroImage*, *282*, 120390. [[pdf]](https://thefinnlab.github.io/files/Jangraw_Finn_etal_NeuroImage2023.pdf)
+Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Landi, N., Sun, H., Hoeft, F., Chen, G., Pugh, K., & Molfese, P. J. (2023). Inter-subject correlation during long narratives reveals widespread neural correlates of reading ability. *NeuroImage*, *282*, 120390. [[pdf]](https://thefinnlab.github.io/files/Jangraw_Finn_etal_NeuroImage2023.pdf)
 
-Yang, E., Milisav, F., Kopal, J., Holmes, A.J., Mitsis, G.D., Misic, B., **Finn, E.S.**, & Bzdok, D. (2023). The default network dominates neural responses to evolving movie stories. *Nature Communications*, *14*(1), 4197. [[pdf]](https://thefinnlab.github.io/files/Bzdok_Finn_NatComm2023.pdf)
+Yang, E., Milisav, F., Kopal, J., Holmes, A. J., Mitsis, G. D., Misic, B., **Finn, E. S.**, & Bzdok, D. (2023). The default network dominates neural responses to evolving movie stories. *Nature Communications*, *14*(1), 4197. [[pdf]](https://thefinnlab.github.io/files/Bzdok_Finn_NatComm2023.pdf)
 
-**Sava-Segal, C.**, Richards, C., **Leung, M.**, & **Finn, E.S.** (2023). Individual differences in neural event segmentation of continuous experiences. *Cerebral Cortex*, *33*(13), 8164-8178. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_Cereb2023.pdf)
+**Sava-Segal, C.**, Richards, C., **Leung, M.**, & **Finn, E. S.** (2023). Individual differences in neural event segmentation of continuous experiences. *Cerebral Cortex*, *33*(13), 8164-8178. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_Cereb2023.pdf)
 
-**Grall, C.**, **Equita, J.**, & **Finn, E.S.** (2023). Neural unscrambling of temporal information during a nonlinear narrative. *Cerebral Cortex*, *33*(11), 7001-7014 [[pdf]](https://thefinnlab.github.io/files/Grall_Finn_Cereb2023.pdf)
+**Grall, C.**, **Equita, J.**, & **Finn, E. S.** (2023). Neural unscrambling of temporal information during a nonlinear narrative. *Cerebral Cortex*, *33*(11), 7001-7014 [[pdf]](https://thefinnlab.github.io/files/Grall_Finn_Cereb2023.pdf)
 
 2022
 ---
 ---
-Baek, E.C., Hyon, R., López, K., **Finn, E.S.**, Porter, M.A., & Parkinson, C. (2022). In-degree centrality in a social network is linked to coordinated neural activity. *Nature Communications*, *13*, Article 1118. [[pdf]](https://thefinnlab.github.io/files/Baek_Finn_etal_NatureComm2022.pdf)
+Baek, E. C., Hyon, R., López, K., **Finn, E. S.**, Porter, M. A., & Parkinson, C. (2022). In-degree centrality in a social network is linked to coordinated neural activity. *Nature Communications*, *13*, Article 1118. [[pdf]](https://thefinnlab.github.io/files/Baek_Finn_etal_NatureComm2022.pdf)
 
-**Grall, C.**, & **Finn, E.S.** (2022) Leveraging the power of media to drive cognition: a media-informed approach to naturalistic neuroscience, *Social Cognitive and Affective Neuroscience*, *17*(6), 598–608. [[pdf]](https://thefinnlab.github.io/files/Clare_Emily_SCAN.pdf)
+**Grall, C.**, & **Finn, E. S.** (2022) Leveraging the power of media to drive cognition: a media-informed approach to naturalistic neuroscience, *Social Cognitive and Affective Neuroscience*, *17*(6), 598–608. [[pdf]](https://thefinnlab.github.io/files/Clare_Emily_SCAN.pdf)
 
-Goyal, N., Moraczewski, D., Bandettini, P.A., **Finn, E.S.**, & Thomas, A. (2022). The positive-negative mode link between brain connectivity, demographics, and behavior: A pre-registered, replication of Smith et al. (2015). *Royal Society Open Science*, *9*, Article 201090. [[pdf]](https://thefinnlab.github.io/files/Goyal_Finn_etal_RoyalSociety2022.pdf)
+Goyal, N., Moraczewski, D., Bandettini, P. A., **Finn, E. S.**, & Thomas, A. (2022). The positive-negative mode link between brain connectivity, demographics, and behavior: A pre-registered, replication of Smith et al. (2015). *Royal Society Open Science*, *9*, Article 201090. [[pdf]](https://thefinnlab.github.io/files/Goyal_Finn_etal_RoyalSociety2022.pdf)
 
-**Varrier, R.S.**, & **Finn, E.S.** (2022). Seeing social: A neural signature for conscious perception of social interactions. *Journal of Neuroscience*, *42*(49), 9211-9226 [[pdf]](https://thefinnlab.github.io/files/Varrier_Finn_JNeuro_2022.pdf)
+**Varrier, R. S.**, & **Finn, E. S.** (2022). Seeing social: A neural signature for conscious perception of social interactions. *Journal of Neuroscience*, *42*(49), 9211-9226 [[pdf]](https://thefinnlab.github.io/files/Varrier_Finn_JNeuro_2022.pdf)
 
 2021
 ---
 ---
-Bandettini, P.A., **Finn, E.S.**, & Huber, L. (2021). Challenges and opportunities of mesoscopic brain mapping with fMRI. *Current Opinion in Behavioral Sciences*, *40*, 189-200. [[pdf]](https://thefinnlab.github.io/files/Bandettini_CurrOpinBehavSci2021.pdf)
+Bandettini, P. A., **Finn, E. S.**, & Huber, L. (2021). Challenges and opportunities of mesoscopic brain mapping with fMRI. *Current Opinion in Behavioral Sciences*, *40*, 189-200. [[pdf]](https://thefinnlab.github.io/files/Bandettini_CurrOpinBehavSci2021.pdf)
 
-**Finn, E.S.** (2021). Is it time to put rest to rest? *Trends in Cognitive Sciences*, *25*(12), 1021-1032. [[pdf]](https://thefinnlab.github.io/files/Finn_TiCS2021.pdf)
+**Finn, E. S.** (2021). Is it time to put rest to rest? *Trends in Cognitive Sciences*, *25*(12), 1021-1032. [[pdf]](https://thefinnlab.github.io/files/Finn_TiCS2021.pdf)
 
-**Finn, E.S.**, & Bandettini, P.A. (2021). Movie-watching outperforms rest for functional connectivity-based prediction of behavior. *NeuroImage*, *235*, Article 117963. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImage2021.pdf)
+**Finn, E. S.**, & Bandettini, P. A. (2021). Movie-watching outperforms rest for functional connectivity-based prediction of behavior. *NeuroImage*, *235*, Article 117963. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImage2021.pdf)
 
-**Finn, E.S.**, & Rosenberg, M.D. (2021). Beyond fingerprinting: Choosing predictive connectomes over reliable connectomes. *NeuroImage*, *239*, Article 118254. [[pdf]](https://thefinnlab.github.io/files/FinnRosenberg_NeuroImage2021.pdf)
+**Finn, E. S.**, & Rosenberg, M. D. (2021). Beyond fingerprinting: Choosing predictive connectomes over reliable connectomes. *NeuroImage*, *239*, Article 118254. [[pdf]](https://thefinnlab.github.io/files/FinnRosenberg_NeuroImage2021.pdf)
 
-**Finn, E.S.**, Huber, L., & Bandettini, P.A. (2021). Higher and deeper: Bringing layer fMRI to association cortex. *Progress in Neurobiology*, *207*, Article 101930. [[pdf]](https://thefinnlab.github.io/files/Finn_ProgNeurobio2020_updated.pdf)
+**Finn, E. S.**, Huber, L., & Bandettini, P. A. (2021). Higher and deeper: Bringing layer fMRI to association cortex. *Progress in Neurobiology*, *207*, Article 101930. [[pdf]](https://thefinnlab.github.io/files/Finn_ProgNeurobio2020_updated.pdf)
 
-Huber, L., **Finn, E.S.**, Chai, Y., Goebel, R., Stirnberg, R., Stöcker, T., Marrett, S., Uludag, K., Kim, S.G., Han, S., Bandettini, P.A., & Poser, B.A. (2021). Layer-dependent functional connectivity methods. *Progress in Neurobiology*, *207*, Article 101835. [[pdf]](https://thefinnlab.github.io/files/Huber_ProgNeurobio2020_updated.pdf)
+Huber, L., **Finn, E. S.**, Chai, Y., Goebel, R., Stirnberg, R., Stöcker, T., Marrett, S., Uludag, K., Kim, S. G., Han, S., Bandettini, P. A., & Poser, B. A. (2021). Layer-dependent functional connectivity methods. *Progress in Neurobiology*, *207*, Article 101835. [[pdf]](https://thefinnlab.github.io/files/Huber_ProgNeurobio2020_updated.pdf)
 
-Scheinost, D., Dadashkarimi, J., **Finn, E.S.**, Wambach, C.G., MacGillivray, C., Roule, A.L., Niendam, T.A., Pine, D.S., Brotman, M.A., Leibenluft, E., & Tseng, W-L. (2021). Functional connectivity during frustration: a preliminary study of predictive modeling of irritability in youth. *Neuropsychopharmacology*, *46*(7), 1300-1306. [[pdf]](https://thefinnlab.github.io/files/Scheinost_NPP2021.pdf)
+Scheinost, D., Dadashkarimi, J., **Finn, E. S.**, Wambach, C. G., MacGillivray, C., Roule, A. L., Niendam, T. A., Pine, D. S., Brotman, M. A., Leibenluft, E., & Tseng, W-L. (2021). Functional connectivity during frustration: a preliminary study of predictive modeling of irritability in youth. *Neuropsychopharmacology*, *46*(7), 1300-1306. [[pdf]](https://thefinnlab.github.io/files/Scheinost_NPP2021.pdf)
 
-Song, H., **Finn, E.S.**, & Rosenberg, M.D. (2021). Neural signatures of attentional engagement during narratives and its consequences for event memory. *PNAS*, *118*(33). [[pdf]](https://thefinnlab.github.io/files/Song_PNAS2021.pdf)
+Song, H., **Finn, E. S.**, & Rosenberg, M. D. (2021). Neural signatures of attentional engagement during narratives and its consequences for event memory. *PNAS*, *118*(33). [[pdf]](https://thefinnlab.github.io/files/Song_PNAS2021.pdf)
 
 2020
 ---
 ---
-Chen, G., Taylor, P.A., Qu, X., Molfese, P.J., Bandettini, P.A., Cox, R.W., & **Finn, E.S.** (2020). Untangling the Relatedness among Correlations, Part III: Inter-Subject Correlation Analysis through Bayesian Multilevel Modeling for Naturalistic Scanning. *NeuroImage*, *216*, Article 116474. [[pdf]](https://thefinnlab.github.io/files/Chen_NeuroImage2020.pdf)
+Chen, G., Taylor, P. A., Qu, X., Molfese, P. J., Bandettini, P. A., Cox, R. W., & **Finn, E. S.** (2020). Untangling the Relatedness among Correlations, Part III: Inter-Subject Correlation Analysis through Bayesian Multilevel Modeling for Naturalistic Scanning. *NeuroImage*, *216*, Article 116474. [[pdf]](https://thefinnlab.github.io/files/Chen_NeuroImage2020.pdf)
 
-**Finn, E.S.**, Glerean, E., Khojandi, A.Y., Nielson, D., Molfese, P.J., Handwerker, D.A., & Bandettini, P.A. (2020). Idiosynchrony: From shared responses to individual differences during naturalistic neuroimaging. *NeuroImage*, *215*, Article 116828. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImage2020.pdf)
+**Finn, E. S.**, Glerean, E., Khojandi, A. Y., Nielson, D., Molfese, P. J., Handwerker, D. A., & Bandettini, P. A. (2020). Idiosynchrony: From shared responses to individual differences during naturalistic neuroimaging. *NeuroImage*, *215*, Article 116828. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImage2020.pdf)
 
-Huber, L., **Finn, E.S.**, Handwerker, D.A., Boenstrup, M., Glen, D., Kashyap, S., Ivanov, D., Petridou, N., Marrett, S., Goense, J., Poser, B., & Bandettini, P.A. (2020). Sub-millimeter fMRI reveals multiple topographical digit representations that form action maps in human motor cortex. *NeuroImage*, *208*, Article 116463. [[pdf]](https://thefinnlab.github.io/files/Huber_NeuroImage2020.pdf)
+Huber, L., **Finn, E. S.**, Handwerker, D. A., Boenstrup, M., Glen, D., Kashyap, S., Ivanov, D., Petridou, N., Marrett, S., Goense, J., Poser, B., & Bandettini, P. A. (2020). Sub-millimeter fMRI reveals multiple topographical digit representations that form action maps in human motor cortex. *NeuroImage*, *208*, Article 116463. [[pdf]](https://thefinnlab.github.io/files/Huber_NeuroImage2020.pdf)
 
-Rosenberg, M.D., Scheinost, D., Greene, A.S., Avery, E.W., Kwon, Y.H., **Finn, E.S.**, Ramani, R., Qiu, M., Constable, R.T., & Chun, M.M. (2020). Functional connectivity predicts changes in attention observed across minutes, days, and months. *PNAS*, *117*(7), 3797-3807. [[pdf]](https://thefinnlab.github.io/files/Rosenberg_PNAS2020.pdf)
+Rosenberg, M. D., Scheinost, D., Greene, A. S., Avery, E. W., Kwon, Y. H., **Finn, E. S.**, Ramani, R., Qiu, M., Constable, R. T., & Chun, M. M. (2020). Functional connectivity predicts changes in attention observed across minutes, days, and months. *PNAS*, *117*(7), 3797-3807. [[pdf]](https://thefinnlab.github.io/files/Rosenberg_PNAS2020.pdf)
 
 2019
 ---
 ---
-**Finn, E.S.**, Huber, L., Jangraw, D.C., Molfese, P.J., & Bandettini, P.A. (2019). Layer-dependent activity in human prefrontal cortex during working memory. *Nature Neuroscience*, *22*, 1687–1695. [[pdf]](https://esfinn.github.io/files/Finn_NatNeuro2019.pdf)
+**Finn, E. S.**, Huber, L., Jangraw, D. C., Molfese, P. J., & Bandettini, P. A. (2019). Layer-dependent activity in human prefrontal cortex during working memory. *Nature Neuroscience*, *22*, 1687–1695. [[pdf]](https://esfinn.github.io/files/Finn_NatNeuro2019.pdf)
 
-Lake, E.M.R., **Finn, E.S.**, Noble, S.M., Vanderwal, T., Shen, X., Rosenberg, M.D., Spann, M.N., Chun, M.M., & Constable, R.T. (2019). The functional brain organization of an individual predicts measures of social abilities in autism spectrum disorder. *Biological Psychiatry*, *86*, 315-326. [[pdf]](https://esfinn.github.io/files/Lake_BiolPsych2019.pdf)
+Lake, E. M. R., **Finn, E. S.**, Noble, S. M., Vanderwal, T., Shen, X., Rosenberg, M. D., Spann, M. N., Chun, M. M., & Constable, R. T. (2019). The functional brain organization of an individual predicts measures of social abilities in autism spectrum disorder. *Biological Psychiatry*, *86*, 315-326. [[pdf]](https://esfinn.github.io/files/Lake_BiolPsych2019.pdf)
 
 2018
 ---
 ---
-**Finn, E.S.**, Corlett, P.R., Chen, G., Bandettini, P.A., & Constable, R.T. (2018). Trait paranoia shapes inter-subject synchrony in brain activity during an ambiguous social narrative. *Nature Communications*, *9* Article 2043. [[pdf]](https://esfinn.github.io/files/Finn_NatComms2018.pdf)
+**Finn, E. S.**, Corlett, P. R., Chen, G., Bandettini, P. A., & Constable, R. T. (2018). Trait paranoia shapes inter-subject synchrony in brain activity during an ambiguous social narrative. *Nature Communications*, *9* Article 2043. [[pdf]](https://esfinn.github.io/files/Finn_NatComms2018.pdf)
 
-Horien, C., Noble, S., **Finn, E.S.**, Shen, X., Scheinost, D., & Constable, R.T. (2018). Considering factors affecting the connectome-based identification process: Comment on Waller et al. *NeuroImage*, *169* 172-175. [[pdf]](https://esfinn.github.io/files/Horien_NeuroImage2018.pdf)
+Horien, C., Noble, S., **Finn, E. S.**, Shen, X., Scheinost, D., & Constable, R. T. (2018). Considering factors affecting the connectome-based identification process: Comment on Waller et al. *NeuroImage*, *169* 172-175. [[pdf]](https://esfinn.github.io/files/Horien_NeuroImage2018.pdf)
 
 2017
 ---
 ---
-**Finn, E.S.**, Scheinost, D., Finn, D.M., Shen, X., Papademetris, X., & Constable, R.T. (2017). Can brain state be manipulated to emphasize individual differences in functional connectivity? *NeuroImage*, *160* 140-151. [[pdf]](https://esfinn.github.io/files/Finn_NeuroImage2017.pdf)
+**Finn, E. S.**, Scheinost, D., Finn, D. M., Shen, X., Papademetris, X., & Constable, R. T. (2017). Can brain state be manipulated to emphasize individual differences in functional connectivity? *NeuroImage*, *160* 140-151. [[pdf]](https://esfinn.github.io/files/Finn_NeuroImage2017.pdf)
 
-Noble, S., Scheinost, D., **Finn, E.S.**, Shen, X., Papademetris, X., McEwen, S.C., Bearden, C.E., Addington, J., Goodyear, B., Cadenhead, K.S., Mirzakhanian, H., Cornblatt, B.A., Olvet, D.M., Mathalon, D.H., McGlashan, T.H., Perkins, D.O., Belger, A., Seidman, L.J., Thermenos, H., […], Constable R.T. (2017). Multisite reliability of MR-based functional connectivity. *NeuroImage*, *146*, 959-970. [[pdf]](https://esfinn.github.io/files/Noble_NeuroImage2017.pdf)
+Noble, S., Scheinost, D., **Finn, E. S.**, Shen, X., Papademetris, X., McEwen, S. C., Bearden, C. E., Addington, J., Goodyear, B., Cadenhead, K. S., Mirzakhanian, H., Cornblatt, B. A., Olvet, D. M., Mathalon, D. H., McGlashan, T. H., Perkins, D. O., Belger, A., Seidman, L. J., Thermenos, H., […], Constable R. T. (2017). Multisite reliability of MR-based functional connectivity. *NeuroImage*, *146*, 959-970. [[pdf]](https://esfinn.github.io/files/Noble_NeuroImage2017.pdf)
 
 Rosenberg, M.D., **Finn, E.S.**, Scheinost, D., Constable, R.T., & Chun, M.M. (2017). Characterizing attention with predictive network models. *Trends in Cognitive Sciences*, *21*(4), 290-302. [[pdf]](https://esfinn.github.io/files/Rosenberg_TiCS2017.pdf)
 
