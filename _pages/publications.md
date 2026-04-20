@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 ## Preprints
-**Liang, Q.**, **Su, Z.**, **Varrier, R. S.**, **Jolly, E.**, & **Finn, E. S.** (2026). Agency boosts sensitivity to social interactions through active information seeking. *OSF*, 2026.03. [[pdf]](https://thefinnlab.github.io/files/Liang_Finn_osf2026.pdf)
+**Liang, Q.**, **Su, Z.**, **Varrier, R. S.**, **Jolly, E.**, & **Finn, E. S.**. Agency boosts sensitivity to social interactions through active information seeking. *OSF*, 2026.03. [[pdf]](https://thefinnlab.github.io/files/Liang_Finn_osf2026.pdf)
 
-**Botch, T. L.**, & **Finn, E. S.** (2025). Sensory context as a universal principle of language in humans and LLMs. *OSF*, 2025.05. [[pdf]](https://drive.google.com/file/d/19fnY6LXnzUo_5GaVkZRZuKL0xLoTNWVH/view?usp=drive_link)
+**Botch, T. L.**, & **Finn, E. S.**. Sensory context improves language prediction in humans and LLMs. *OSF*, 2025.05. [[pdf]](https://drive.google.com/file/d/19fnY6LXnzUo_5GaVkZRZuKL0xLoTNWVH/view?usp=drive_link)
 
-**O'Nell, K.**, Sanchez, K. L., **Finn, E. S.** (2025). Complex mutual adaptation in dyads’ semantic similarity trajectories predicts conversation success. *OSF*, 2025.03. [[pdf]](https://thefinnlab.github.io/files/ONell_Sanchez_Finn-pinknoise_preprint-2025.pdf)
+**O'Nell, K.**, Sanchez, K. L., **Finn, E. S.**. Complex mutual adaptation in dyads’ semantic similarity trajectories predicts conversation success. *OSF*, 2025.03. [[pdf]](https://thefinnlab.github.io/files/ONell_Sanchez_Finn-pinknoise_preprint-2025.pdf)
 
-**Varrier, R. S.**, **Su, Z.**, **Liang, Q.**, **Benson, T. G.**, **Jolly, E.**, & **Finn, E. S.** (2025). Shared and individual tuning curves for social vision. *bioRxiv*, 2025.01. 19.633772. [[pdf]](https://thefinnlab.github.io/files/Varrier_etal_biorxiv_2025-preprint.pdf)
+**Varrier, R. S.**, **Su, Z.**, **Liang, Q.**, **Benson, T. G.**, **Jolly, E.**, & **Finn, E. S.**. Shared and individual tuning curves for social perception. *bioRxiv*, 2025.01. 19.633772. [[pdf]](https://thefinnlab.github.io/files/Varrier_etal_biorxiv_2025-preprint.pdf)
 
 Horien, C., Mandino, F., Greene, A. S., Shen, X., Powell, K., Vernetti, A., O’Connor, D., McPartland, J. C., Volkmar, F. R., Chun, M., Chawarska, K., Lake, E. M. R., Rosenberg, M. D., Satterthwaite, T., Scheinost, D., **Finn, E. S.**, & Constable, R. T. (2025). What is the best brain state to predict autistic traits?. *medRxiv*, 2025.01. 14.24319457. [[pdf]](https://thefinnlab.github.io/files/Horien_etal_medrxiv_2025-preprint.pdf)
 
@@ -31,7 +31,7 @@ Rosenberg, M. D., & **Finn, E. S.** (2022). How to establish robust brain–beha
 2026
 ---
 ---
-**Sava-Segal, C.**, **Grall, C.**, & **Finn, E. S.** (2026). Narrative “twist” shifts within-individual neural representations of dissociable story features. *Proceedings of the National Academy of Sciences*, *123*(11), e2512071123. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_PNAS2026.pdf)
+**Sava-Segal, C.**, **Grall, C.**, & **Finn, E. S.** (2026). Narrative “twist” shifts within-individual neural representations of dissociable story features. *Proceedings of the National Academy of Sciences*, *123*your (11), e2512071123. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_PNAS2026.pdf)
 
 2025
 ---
