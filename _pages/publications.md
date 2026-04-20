@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 ## Preprints
-**Liang, Q.**, **Su, Z.**, **Varrier, R. S.**, **Jolly, E.**, & **Finn, E. S.**. Agency boosts sensitivity to social interactions through active information seeking. *OSF*, 2026.03. [[pdf]](https://thefinnlab.github.io/files/Liang_Finn_osf2026.pdf)
+**Liang, Q.**, **Su, Z.**, **Varrier, R. S.**, **Jolly, E.**, & **Finn, E. S.**. Agency boosts sensitivity to social interactions through active information seeking. *OSF*, 2026.03. [[link]](https://osf.io/preprints/psyarxiv/ufgkb_v1)[[pdf]](https://thefinnlab.github.io/files/Liang_Finn_osf2026.pdf)
 
-**Botch, T. L.**, & **Finn, E. S.**. Sensory context improves language prediction in humans and LLMs. *OSF*, 2025.05. [[pdf]](https://drive.google.com/file/d/19fnY6LXnzUo_5GaVkZRZuKL0xLoTNWVH/view?usp=drive_link)
+**Botch, T. L.**, & **Finn, E. S.**. Sensory context improves language prediction in humans and LLMs. *OSF*, 2025.05. [[link]](https://osf.io/preprints/psyarxiv/nz5eg_v2)[[pdf]](https://drive.google.com/file/d/19fnY6LXnzUo_5GaVkZRZuKL0xLoTNWVH/view?usp=drive_link)
 
-**O'Nell, K.**, Sanchez, K. L., **Finn, E. S.**. Complex mutual adaptation in dyads’ semantic similarity trajectories predicts conversation success. *OSF*, 2025.03. [[pdf]](https://thefinnlab.github.io/files/ONell_Sanchez_Finn-pinknoise_preprint-2025.pdf)
+**O'Nell, K.**, Sanchez, K. L., **Finn, E. S.**. Complex mutual adaptation in dyads’ semantic similarity trajectories predicts conversation success. *OSF*, 2025.03. [[link]](https://osf.io/preprints/psyarxiv/t53fy_v1)[[pdf]](https://thefinnlab.github.io/files/ONell_Sanchez_Finn-pinknoise_preprint-2025.pdf)
 
-**Varrier, R. S.**, **Su, Z.**, **Liang, Q.**, **Benson, T. G.**, **Jolly, E.**, & **Finn, E. S.**. Shared and individual tuning curves for social perception. *bioRxiv*, 2025.01. 19.633772. [[pdf]](https://thefinnlab.github.io/files/Varrier_etal_biorxiv_2025-preprint.pdf)
+**Varrier, R. S.**, **Su, Z.**, **Liang, Q.**, **Benson, T. G.**, **Jolly, E.**, & **Finn, E. S.**. Shared and individual tuning curves for social perception. *bioRxiv*, 2025.01. 19.633772. [[link]](https://www.biorxiv.org/content/10.1101/2025.01.19.633772v3)[[pdf]](https://thefinnlab.github.io/files/Varrier_etal_biorxiv_2025-preprint.pdf)
 
-Horien, C., Mandino, F., Greene, A. S., Shen, X., Powell, K., Vernetti, A., O’Connor, D., McPartland, J. C., Volkmar, F. R., Chun, M., Chawarska, K., Lake, E. M. R., Rosenberg, M. D., Satterthwaite, T., Scheinost, D., **Finn, E. S.**, & Constable, R. T. (2025). What is the best brain state to predict autistic traits?. *medRxiv*, 2025.01. 14.24319457. [[pdf]](https://thefinnlab.github.io/files/Horien_etal_medrxiv_2025-preprint.pdf)
+Horien, C., Mandino, F., Greene, A. S., Shen, X., Powell, K., Vernetti, A., O’Connor, D., McPartland, J. C., Volkmar, F. R., Chun, M., Chawarska, K., Lake, E. M. R., Rosenberg, M. D., Satterthwaite, T., Scheinost, D., **Finn, E. S.**, & Constable, R. T. (2025). What is the best brain state to predict autistic traits?. *medRxiv*, 2025.01. 14.24319457. [[link]](https://www.medrxiv.org/content/10.64898/2026.04.01.26349372v2)[[pdf]](https://thefinnlab.github.io/files/Horien_etal_medrxiv_2025-preprint.pdf)
 
 ## Recent editorials
 
