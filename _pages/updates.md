@@ -7,6 +7,7 @@ author_profile: true
 
 ## **April 2026**
 - PhD students Clara Sava-Segal gives a symposium talk at SANS!
+- PhD student Kathryn O'Nell gives a colloquium talk at the University of Connecticut!
 
 ## **March 2026**
 - Former Postdoc Dr. Rekha Varrier, former full-time RA Zishan Su, Postdoc Dr. Qi Liang, former Lab Manager Tory Benson, former Postdoc Dr. Eshin Jolly, & Dr. Emily Finn publish paper in OPMI!
