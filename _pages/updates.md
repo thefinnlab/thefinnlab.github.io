@@ -5,6 +5,9 @@ permalink: /updates/
 author_profile: true
 ---
 
+## **April 2026**
+- PhD students Clara Sava-Segal gives a symposium talk at SANS!
+
 ## **March 2026**
 - Former Postdoc Dr. Rekha Varrier, former full-time RA Zishan Su, Postdoc Dr. Qi Liang, former Lab Manager Tory Benson, former Postdoc Dr. Eshin Jolly, & Dr. Emily Finn publish paper in OPMI!
 
@@ -45,7 +48,7 @@ author_profile: true
 - PhD student Thomas Botch has a paper accepted to Journal of Neuroscience
 
 ## **August 2024**
-- PhD student Kathryn O'Nell gives talk at CCN!
+- PhD student Kathryn O'Nell gives a talk at CCN!
 - PhD student Thomas Botch attends CBMM summer school
 
 ## **July 2024**
