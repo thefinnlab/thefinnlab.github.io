@@ -5,12 +5,17 @@ permalink: /updates/
 author_profile: true
 ---
 
+## **May 2026**
+- PhD students Clara Sava-Segal successfully defended her PhD dissertation, *“Cognitive and Neural Mechanisms Underlying the Interpretation and Memory of Complex Experiences.”* Congratulations Dr. Sava-Segal! Clara will be taking her talents to New Haven next year, where she was awarded an independent postdoc fellowship at Yale’s Wu Tsai Institute.
+- PhD students Thomas Botch successfully defended his PhD dissertation, *“Understanding Behavioral and Representational Divergences of Humans and Machines.”* Congratulations Dr. Botch! Next year, Tommy will be embarking on a new adventure as a postdoctoral fellow at Sungkyunkwan University in South Korea, where he will no doubt continue to do impactful science and eat delicious food.
+- Undergraduate RA Tiffany Koome awarded Presidential Scholar!
+
 ## **April 2026**
 - PhD students Clara Sava-Segal gives a symposium talk at SANS!
 - PhD student Kathryn O'Nell gives a colloquium talk at the University of Connecticut!
 
 ## **March 2026**
-- Former Postdoc Dr. Rekha Varrier, former full-time RA Zishan Su, Postdoc Dr. Qi Liang, former Lab Manager Tory Benson, former Postdoc Dr. Eshin Jolly, & Dr. Emily Finn publish paper in OPMI!
+- Former Postdoc Dr. Rekha Varrier, the *psyanim* team, & Dr. Emily Finn publish paper in OPMI!
 
 ## **February 2026**
 - PhD student Clara Sava-Segal, Former Postdoc Dr. Clare Grall, & Dr. Emily Finn publish paper in PNAS!
