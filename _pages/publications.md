@@ -12,8 +12,6 @@ author_profile: true
 
 **O'Nell, K.**, Sanchez, K. L., **Finn, E. S.**. Complex mutual adaptation in dyads’ semantic similarity trajectories predicts conversation success. *OSF*, 2025.03. [[link]](https://osf.io/preprints/psyarxiv/t53fy_v1)[[pdf]](https://thefinnlab.github.io/files/ONell_Sanchez_Finn-pinknoise_preprint-2025.pdf)
 
-**Varrier, R. S.**, **Su, Z.**, **Liang, Q.**, **Benson, T. G.**, **Jolly, E.**, & **Finn, E. S.**. Shared and individual tuning curves for social perception. *bioRxiv*, 2025.01. 19.633772. [[link]](https://www.biorxiv.org/content/10.1101/2025.01.19.633772v3)[[pdf]](https://thefinnlab.github.io/files/Varrier_etal_biorxiv_2025-preprint.pdf)
-
 Horien, C., Mandino, F., Greene, A. S., Shen, X., Powell, K., Vernetti, A., O’Connor, D., McPartland, J. C., Volkmar, F. R., Chun, M., Chawarska, K., Lake, E. M. R., Rosenberg, M. D., Satterthwaite, T., Scheinost, D., **Finn, E. S.**, & Constable, R. T. (2025). What is the best brain state to predict autistic traits?. *medRxiv*, 2025.01. 14.24319457. [[link]](https://www.medrxiv.org/content/10.64898/2026.04.01.26349372v2)[[pdf]](https://thefinnlab.github.io/files/Horien_etal_medrxiv_2025-preprint.pdf)
 
 ## Recent editorials
@@ -31,7 +29,9 @@ Rosenberg, M. D., & **Finn, E. S.** (2022). How to establish robust brain–beha
 2026
 ---
 ---
-**Sava-Segal, C.**, **Grall, C.**, & **Finn, E. S.** (2026). Narrative “twist” shifts within-individual neural representations of dissociable story features. *Proceedings of the National Academy of Sciences*, *123*your (11), e2512071123. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_PNAS2026.pdf)
+**Sava-Segal, C.**, **Grall, C.**, & **Finn, E. S.** (2026). Narrative “twist” shifts within-individual neural representations of dissociable story features. *Proceedings of the National Academy of Sciences*, *123*(11), e2512071123. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_PNAS2026.pdf)
+
+**Varrier, R. S.**, **Su, Z.**, **Liang, Q.**, **Benson, T. G.**, **Jolly, E.**, & **Finn, E. S.**. Shared and individual tuning curves for social perception. *Open Mind*, *10(, 567-593. [[pdf]](https://thefinnlab.github.io/files/Varrier_Finn_OPMI2026.pdf)
 
 2025
 ---
