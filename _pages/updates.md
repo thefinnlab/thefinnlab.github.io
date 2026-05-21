@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## **May 2026**
-- PhD students Clara Sava-Segal successfully defended her PhD dissertation, *“Cognitive and Neural Mechanisms Underlying the Interpretation and Memory of Complex Experiences.”* Congratulations Dr. Sava-Segal! Clara will be taking her talents to New Haven next year, where she was awarded an independent postdoc fellowship at Yale’s Wu Tsai Institute.
-- PhD students Thomas Botch successfully defended his PhD dissertation, *“Understanding Behavioral and Representational Divergences of Humans and Machines.”* Congratulations Dr. Botch! Next year, Tommy will be embarking on a new adventure as a postdoctoral fellow at Sungkyunkwan University in South Korea, where he will no doubt continue to do impactful science and eat delicious food.
+- PhD students Clara Sava-Segal successfully defended her PhD dissertation, *“Cognitive and Neural Mechanisms Underlying the Interpretation and Memory of Complex Experiences.”* Congratulations Dr. Sava-Segal!
+- PhD students Thomas Botch successfully defended his PhD dissertation, *“Understanding Behavioral and Representational Divergences of Humans and Machines.”* Congratulations Dr. Botch!
 - Undergraduate RA Tiffany Koome awarded Presidential Scholar!
 
 ## **April 2026**
