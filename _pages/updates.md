@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## **May 2026**
-- PhD students Clara Sava-Segal successfully defended her PhD dissertation, *“Cognitive and Neural Mechanisms Underlying the Interpretation and Memory of Complex Experiences.”* Congratulations Dr. Sava-Segal!
-- PhD students Thomas Botch successfully defended his PhD dissertation, *“Understanding Behavioral and Representational Divergences of Humans and Machines.”* Congratulations Dr. Botch!
+- PhD student Clara Sava-Segal successfully defended her PhD dissertation, *“Cognitive and Neural Mechanisms Underlying the Interpretation and Memory of Complex Experiences.”* Congratulations Dr. Sava-Segal!
+- PhD student Thomas Botch successfully defended his PhD dissertation, *“Understanding Behavioral and Representational Divergences of Humans and Machines.”* Congratulations Dr. Botch!
 - Undergraduate RA Tiffany Koome awarded Presidential Scholar!
 
 ## **April 2026**
