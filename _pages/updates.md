@@ -5,6 +5,9 @@ permalink: /updates/
 author_profile: true
 ---
 
+## **June 2026**
+- PhD student Dr. Clara Sava-Segal awarded the 2026 Hannah Croasdale award from Guarini and the William M. Smith Promise Award in the Brain Sciences!
+
 ## **May 2026**
 - PhD student Clara Sava-Segal successfully defended her PhD dissertation, *“Cognitive and Neural Mechanisms Underlying the Interpretation and Memory of Complex Experiences.”* Congratulations Dr. Sava-Segal!
 - PhD student Thomas Botch successfully defended his PhD dissertation, *“Understanding Behavioral and Representational Divergences of Humans and Machines.”* Congratulations Dr. Botch!
