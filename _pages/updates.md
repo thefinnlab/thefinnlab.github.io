@@ -5,7 +5,7 @@ permalink: /updates/
 author_profile: true
 ---
 
-## **April 2026**
+## **August 2026**
 - PhD students Zachary Paris presents a poster at CCN!
 
 ## **June 2026**
