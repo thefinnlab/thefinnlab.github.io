@@ -5,6 +5,9 @@ permalink: /updates/
 author_profile: true
 ---
 
+## **April 2026**
+- PhD students Zachary Paris presents a poster at CCN!
+
 ## **June 2026**
 - Dr. Emily Finn awarded Scientific American’s inaugural class of Young American Scientists!
 - PhD student Dr. Clara Sava-Segal awarded the Hannah Croasdale award from Guarini and the William M. Smith Promise Award in the Brain Sciences Research from PBS!
@@ -19,10 +22,10 @@ author_profile: true
 - PhD student Kathryn O'Nell gives a colloquium talk at the University of Connecticut!
 
 ## **March 2026**
-- Former Postdoc Dr. Rekha Varrier, the *psyanim* team, & Dr. Emily Finn publish paper in OPMI!
+- Former Postdoc Dr. Rekha Varrier, the *psyanim* team, & Dr. Emily Finn publish a paper in OPMI!
 
 ## **February 2026**
-- PhD student Clara Sava-Segal, Former Postdoc Dr. Clare Grall, & Dr. Emily Finn publish paper in PNAS!
+- PhD student Clara Sava-Segal, Former Postdoc Dr. Clare Grall, & Dr. Emily Finn publish a paper in PNAS!
 - Undergraduate RA Kalina Duncheva awarded Neukom Spring Scholar!
 
 ## **January 2026**
