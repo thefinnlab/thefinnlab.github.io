@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 ## Preprints
+
+**O'Nell, K.**, Sanchez, K. L., **Finn, E. S.**. Complex mutual adaptation in dyads’ semantic similarity trajectories predicts conversation success. *OSF*, 2025.03. [[link]](https://osf.io/preprints/psyarxiv/t53fy_v1)[[pdf]](https://thefinnlab.github.io/files/ONell_Sanchez_Finn-pinknoise_preprint-2025.pdf)
+
 **Botch, T. L.**, & **Finn, E. S.**. Sensory context improves language prediction in humans and LLMs. *OSF*, 2025.05. [[link]](https://osf.io/preprints/psyarxiv/nz5eg_v2)[[pdf]](https://drive.google.com/file/d/19fnY6LXnzUo_5GaVkZRZuKL0xLoTNWVH/view?usp=drive_link)
 
 **Liang, Q.**, **Su, Z.**, **Varrier, R. S.**, **Jolly, E.**, & **Finn, E. S.**. Agency boosts sensitivity to social interactions through active information seeking. *OSF*, 2026.03. [[link]](https://osf.io/preprints/psyarxiv/ufgkb_v1)[[pdf]](https://thefinnlab.github.io/files/Liang_Finn_osf2026.pdf)
-
-**O'Nell, K.**, Sanchez, K. L., **Finn, E. S.**. Complex mutual adaptation in dyads’ semantic similarity trajectories predicts conversation success. *OSF*, 2025.03. [[link]](https://osf.io/preprints/psyarxiv/t53fy_v1)[[pdf]](https://thefinnlab.github.io/files/ONell_Sanchez_Finn-pinknoise_preprint-2025.pdf)
 
 **Varrier, R. S.**, **Liang, Q.**, **Benson, T. G.**, Molfese, P. J., & **Finn, E. S.**. Subjective, not objective, socialness drives activity in the brain’s third visual pathway. *bioRxiv*, 2026-05. [[link]](https://www.biorxiv.org/content/10.64898/2026.05.28.728411v1)[[pdf]](https://thefinnlab.github.io/files/Varrier_Finn_biorxiv2026.pdf)
 
