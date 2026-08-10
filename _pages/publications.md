@@ -65,24 +65,24 @@ Iyer, S., Collier, E., Broom, T. W., **Finn, E. S.**, & Meyer, M. L. (2024). Ind
 2023
 ---
 ---
+**Grall, C.**, **Equita, J.**, & **Finn, E. S.** (2023). Neural unscrambling of temporal information during a nonlinear narrative. *Cerebral Cortex*, *33*(11), 7001-7014 [[pdf]](https://thefinnlab.github.io/files/Grall_Finn_Cereb2023.pdf)
+
+**Sava-Segal, C.**, Richards, C., **Leung, M.**, & **Finn, E. S.** (2023). Individual differences in neural event segmentation of continuous experiences. *Cerebral Cortex*, *33*(13), 8164-8178. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_Cereb2023.pdf)
+
 Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Landi, N., Sun, H., Hoeft, F., Chen, G., Pugh, K., & Molfese, P. J. (2023). Inter-subject correlation during long narratives reveals widespread neural correlates of reading ability. *NeuroImage*, *282*, 120390. [[pdf]](https://thefinnlab.github.io/files/Jangraw_Finn_etal_NeuroImage2023.pdf)
 
 Yang, E., Milisav, F., Kopal, J., Holmes, A. J., Mitsis, G. D., Misic, B., **Finn, E. S.**, & Bzdok, D. (2023). The default network dominates neural responses to evolving movie stories. *Nature Communications*, *14*(1), 4197. [[pdf]](https://thefinnlab.github.io/files/Bzdok_Finn_NatComm2023.pdf)
 
-**Sava-Segal, C.**, Richards, C., **Leung, M.**, & **Finn, E. S.** (2023). Individual differences in neural event segmentation of continuous experiences. *Cerebral Cortex*, *33*(13), 8164-8178. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_Cereb2023.pdf)
-
-**Grall, C.**, **Equita, J.**, & **Finn, E. S.** (2023). Neural unscrambling of temporal information during a nonlinear narrative. *Cerebral Cortex*, *33*(11), 7001-7014 [[pdf]](https://thefinnlab.github.io/files/Grall_Finn_Cereb2023.pdf)
-
 2022
 ---
 ---
-Baek, E. C., Hyon, R., López, K., **Finn, E. S.**, Porter, M. A., & Parkinson, C. (2022). In-degree centrality in a social network is linked to coordinated neural activity. *Nature Communications*, *13*, Article 1118. [[pdf]](https://thefinnlab.github.io/files/Baek_Finn_etal_NatureComm2022.pdf)
-
 **Grall, C.**, & **Finn, E. S.** (2022) Leveraging the power of media to drive cognition: a media-informed approach to naturalistic neuroscience, *Social Cognitive and Affective Neuroscience*, *17*(6), 598–608. [[pdf]](https://thefinnlab.github.io/files/Clare_Emily_SCAN.pdf)
 
-Goyal, N., Moraczewski, D., Bandettini, P. A., **Finn, E. S.**, & Thomas, A. (2022). The positive-negative mode link between brain connectivity, demographics, and behavior: A pre-registered, replication of Smith et al. (2015). *Royal Society Open Science*, *9*, Article 201090. [[pdf]](https://thefinnlab.github.io/files/Goyal_Finn_etal_RoyalSociety2022.pdf)
-
 **Varrier, R. S.**, & **Finn, E. S.** (2022). Seeing social: A neural signature for conscious perception of social interactions. *Journal of Neuroscience*, *42*(49), 9211-9226 [[pdf]](https://thefinnlab.github.io/files/Varrier_Finn_JNeuro_2022.pdf)
+
+Baek, E. C., Hyon, R., López, K., **Finn, E. S.**, Porter, M. A., & Parkinson, C. (2022). In-degree centrality in a social network is linked to coordinated neural activity. *Nature Communications*, *13*, Article 1118. [[pdf]](https://thefinnlab.github.io/files/Baek_Finn_etal_NatureComm2022.pdf)
+
+Goyal, N., Moraczewski, D., Bandettini, P. A., **Finn, E. S.**, & Thomas, A. (2022). The positive-negative mode link between brain connectivity, demographics, and behavior: A pre-registered, replication of Smith et al. (2015). *Royal Society Open Science*, *9*, Article 201090. [[pdf]](https://thefinnlab.github.io/files/Goyal_Finn_etal_RoyalSociety2022.pdf)
 
 2021
 ---
@@ -106,9 +106,9 @@ Song, H., **Finn, E. S.**, & Rosenberg, M. D. (2021). Neural signatures of atten
 2020
 ---
 ---
-Chen, G., Taylor, P. A., Qu, X., Molfese, P. J., Bandettini, P. A., Cox, R. W., & **Finn, E. S.** (2020). Untangling the Relatedness among Correlations, Part III: Inter-Subject Correlation Analysis through Bayesian Multilevel Modeling for Naturalistic Scanning. *NeuroImage*, *216*, Article 116474. [[pdf]](https://thefinnlab.github.io/files/Chen_NeuroImage2020.pdf)
-
 **Finn, E. S.**, Glerean, E., Khojandi, A. Y., Nielson, D., Molfese, P. J., Handwerker, D. A., & Bandettini, P. A. (2020). Idiosynchrony: From shared responses to individual differences during naturalistic neuroimaging. *NeuroImage*, *215*, Article 116828. [[pdf]](https://thefinnlab.github.io/files/Finn_NeuroImage2020.pdf)
+
+Chen, G., Taylor, P. A., Qu, X., Molfese, P. J., Bandettini, P. A., Cox, R. W., & **Finn, E. S.** (2020). Untangling the Relatedness among Correlations, Part III: Inter-Subject Correlation Analysis through Bayesian Multilevel Modeling for Naturalistic Scanning. *NeuroImage*, *216*, Article 116474. [[pdf]](https://thefinnlab.github.io/files/Chen_NeuroImage2020.pdf)
 
 Huber, L., **Finn, E. S.**, Handwerker, D. A., Boenstrup, M., Glen, D., Kashyap, S., Ivanov, D., Petridou, N., Marrett, S., Goense, J., Poser, B., & Bandettini, P. A. (2020). Sub-millimeter fMRI reveals multiple topographical digit representations that form action maps in human motor cortex. *NeuroImage*, *208*, Article 116463. [[pdf]](https://thefinnlab.github.io/files/Huber_NeuroImage2020.pdf)
 
