@@ -40,6 +40,8 @@ Horien, C., Mandino, F., Greene, A. S., Shen, X., Powell, K., Vernetti, A., O’
 
 Zhang, Y., **Finn, E. S.**, Sabuncu, M. R., & Kuceyeski, A. (2026). A view-engage-predict framework for enhancing brain-behavior mapping with naturalistic movie-watching fMRI. *Communications Biology*.
 
+Yair, N., Madar, A., Tik, N., Zalmenson, T., Azriel, O., Shamai-Leshem, D., Alon, Y., Tatsa-Laur, L., Ben-Yehuda, A., Pine, S. D., Bliese, D. P., Bernstein-Eliav, M., **Finn, E. S.**, Bar-Haim, Y., & Tavor, I. (2026). Experience-dependent changes in functional connectome fingerprinting. *Nature Communications*.
+
 2025
 ---
 ---
