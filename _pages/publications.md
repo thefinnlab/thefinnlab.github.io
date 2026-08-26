@@ -9,8 +9,6 @@ author_profile: true
 
 **O'Nell, K.**, Sanchez, K. L., **Finn, E. S.**. Complex mutual adaptation in dyads’ semantic similarity trajectories predicts conversation success. *OSF*, 2025.03. [[link]](https://osf.io/preprints/psyarxiv/t53fy_v1)[[pdf]](https://thefinnlab.github.io/files/ONell_Sanchez_Finn-pinknoise_preprint-2025.pdf)
 
-**Botch, T. L.**, & **Finn, E. S.**. Sensory context improves language prediction in humans and LLMs. *OSF*, 2025.05. [[link]](https://osf.io/preprints/psyarxiv/nz5eg_v2)[[pdf]](https://drive.google.com/file/d/19fnY6LXnzUo_5GaVkZRZuKL0xLoTNWVH/view?usp=drive_link)
-
 **Liang, Q.**, **Su, Z.**, **Varrier, R. S.**, **Jolly, E.**, & **Finn, E. S.**. Agency boosts sensitivity to social interactions through active information seeking. *OSF*, 2026.03. [[link]](https://osf.io/preprints/psyarxiv/ufgkb_v1)[[pdf]](https://thefinnlab.github.io/files/Liang_Finn_osf2026.pdf)
 
 **Varrier, R. S.**, **Liang, Q.**, **Benson, T. G.**, Molfese, P. J., & **Finn, E. S.**. Subjective, not objective, socialness drives activity in the brain’s third visual pathway. *bioRxiv*, 2026-05. [[link]](https://www.biorxiv.org/content/10.64898/2026.05.28.728411v1)[[pdf]](https://thefinnlab.github.io/files/Varrier_Finn_biorxiv2026.pdf)
@@ -32,6 +30,8 @@ Rosenberg, M. D., & **Finn, E. S.** (2022). How to establish robust brain–beha
 2026
 ---
 ---
+**Botch, T. L.**, & **Finn, E. S.**. Sensory context improves language prediction in humans and LLMs. *Proceedings of the National Academy of Sciences*, *123*(35), e2600317123. [[pdf]](https://thefinnlab.github.io/files/Botch_Finn_PNAS2026.pdf)
+
 **Sava-Segal, C.**, **Grall, C.**, & **Finn, E. S.** (2026). Narrative “twist” shifts within-individual neural representations of dissociable story features. *Proceedings of the National Academy of Sciences*, *123*(11), e2512071123. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_PNAS2026.pdf)
 
 **Varrier, R. S.**, **Su, Z.**, **Liang, Q.**, **Benson, T. G.**, **Jolly, E.**, & **Finn, E. S.**. Shared and individual tuning curves for social perception. *Open Mind*, *10*, 567-593. [[pdf]](https://thefinnlab.github.io/files/Varrier_Finn_OPMI2026.pdf)
