@@ -30,7 +30,7 @@ Rosenberg, M. D., & **Finn, E. S.** (2022). How to establish robust brain–beha
 2026
 ---
 ---
-**Botch, T. L.**, & **Finn, E. S.**. Sensory context improves language prediction in humans and LLMs. *Proceedings of the National Academy of Sciences*, *123*(35), e2600317123. [[pdf]](https://thefinnlab.github.io/files/Botch_Finn_PNAS2026.pdf)
+**Botch, T. L.**, & **Finn, E. S.** (2026). Sensory context improves language prediction in humans and LLMs. *Proceedings of the National Academy of Sciences*, *123*(35), e2600317123. [[pdf]](https://thefinnlab.github.io/files/Botch_Finn_PNAS2026.pdf)
 
 **Sava-Segal, C.**, **Grall, C.**, & **Finn, E. S.** (2026). Narrative “twist” shifts within-individual neural representations of dissociable story features. *Proceedings of the National Academy of Sciences*, *123*(11), e2512071123. [[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_PNAS2026.pdf)
 
