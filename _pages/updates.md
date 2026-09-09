@@ -5,8 +5,13 @@ permalink: /updates/
 author_profile: true
 ---
 
+## **September 2026**
+- The FINN Lab welcomes visiting PhD student, Jiun Choi!
+- The FINN Lab welcomes new postdoc, Dr. Gabriel Braun!
+
 ## **August 2026**
 - PhD students Zachary Paris presents a poster at CCN!
+- Former PhD students Dr. Thomas Botch, & Dr. Emily Finn publish a paper in PNAS!
 
 ## **June 2026**
 - Dr. Emily Finn awarded Scientific American’s inaugural class of Young American Scientists!
