@@ -10,8 +10,8 @@ author_profile: true
 - The FINN Lab welcomes new postdoc, Dr. Gabriel Braun!
 
 ## **August 2026**
-- PhD students Zachary Paris presents a poster at CCN!
-- Former PhD students Dr. Thomas Botch, & Dr. Emily Finn publish a paper in PNAS!
+- PhD student Zachary Paris presents a poster at CCN!
+- Former PhD student Dr. Thomas Botch, & Dr. Emily Finn publish a paper in PNAS!
 
 ## **June 2026**
 - Dr. Emily Finn awarded Scientific American’s inaugural class of Young American Scientists!
@@ -23,7 +23,7 @@ author_profile: true
 - Undergraduate RA Tiffany Koome awarded Presidential Scholar!
 
 ## **April 2026**
-- PhD students Clara Sava-Segal gives a symposium talk at SANS!
+- PhD student Clara Sava-Segal gives a symposium talk at SANS!
 - PhD student Kathryn O'Nell gives a colloquium talk at the University of Connecticut!
 
 ## **March 2026**
@@ -47,7 +47,7 @@ author_profile: true
 - PhD student Kathryn O'Nell nominated as Outstanding Grad Student Teachers!
 
 ## **March 2025**
-- Dr. Emily Finn gives a Young Investigator Award talk and a symposium talk at CNS; PhD students Clara Sava-Segal & Postdoc Dr. Qi Liang present posters; Undergraduate RA Ash Chinta presents a data blitz talk
+- Dr. Emily Finn gives a Young Investigator Award talk and a symposium talk at CNS; PhD student Clara Sava-Segal & Postdoc Dr. Qi Liang present posters; Undergraduate RA Ash Chinta presents a data blitz talk
 
 ## **January 2025**
 - Dr. Emily Finn awarded CNS Young Investigator Award!
