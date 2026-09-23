@@ -38,9 +38,9 @@ Rosenberg, M. D., & **Finn, E. S.** (2022). How to establish robust brain–beha
 
 Horien, C., Mandino, F., Greene, A. S., Shen, X., Powell, K., Vernetti, A., O’Connor, D., Adkinson, B. D., Tejavibulya, L., McPartland, J. C., Volkmar, F. R., Chun, M., Chawarska, K., Lake, E. M. R., Rosenberg, M. D., Satterthwaite, T., Scheinost, D., **Finn, E. S.**, & Constable, R. T. (2026). Optimizing functional connectivity scanning conditions for predicting autistic traits. *Nature Mental Health*, *4*(5), 792–805. [[pdf]](https://thefinnlab.github.io/files/Horien_Finn_NMH2026.pdf)
 
-Zhang, Y., **Finn, E. S.**, Sabuncu, M. R., & Kuceyeski, A. (2026). A view-engage-predict framework for enhancing brain-behavior mapping with naturalistic movie-watching fMRI. *Communications Biology*.
+Zhang, Y., **Finn, E. S.**, Sabuncu, M. R., & Kuceyeski, A. (2026). A view-engage-predict framework for enhancing brain-behavior mapping with naturalistic movie-watching fMRI. *Communications Biology*, *9*(1), 1229. [[pdf]](https://thefinnlab.github.io/files/Zhang_etal_CommsBio2026.pdf)
 
-Yair, N., Madar, A., Tik, N., Zalmenson, T., Azriel, O., Shamai-Leshem, D., Alon, Y., Tatsa-Laur, L., Ben-Yehuda, A., Pine, S. D., Bliese, D. P., Bernstein-Eliav, M., **Finn, E. S.**, Bar-Haim, Y., & Tavor, I. (2026). Experience-dependent changes in functional connectome fingerprinting. *Nature Communications*.
+Yair, N., Madar, A., Tik, N., Zalmenson, T., Azriel, O., Shamai-Leshem, D., Alon, Y., Tatsa-Laur, L., Ben-Yehuda, A., Pine, S. D., Bliese, D. P., Bernstein-Eliav, M., **Finn, E. S.**, Bar-Haim, Y., & Tavor, I. (2026). Experience-dependent changes in functional connectome fingerprinting. *Nature Communications*, *17*(1), 10034. [[pdf]](https://thefinnlab.github.io/files/Yair_etal_NatureComms2026.pdf)
 
 2025
 ---
