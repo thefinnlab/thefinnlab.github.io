@@ -56,13 +56,13 @@ Zugman, A., Ringlein, G. V., **Finn, E. S.**, Lewis, K. M., Berman, E., Silverma
 ---
 **Botch, T. L.**, & **Finn, E. S.** (2024). Neural representations of concreteness and concrete concepts are specific to the individual. *The Journal of Neuroscience*, *44*(45), e0288242024. [[pdf]](https://drive.google.com/file/d/1D346gTDoo8qCbdn4FuABVtsfe9VQsOXH/view?usp=drive_link)
 
-Kim, H., Lux, B.K., Lee, E., **Finn, E. S.**, & Woo, C. W. (2024). Brain decoding of spontaneous thought: Predictive modeling of self-relevance and valence using personal narratives. *Proceedings of the National Academy of Sciences*, *121*(14), e2401959121.  [[pdf]](https://thefinnlab.github.io/files/Kim_etal_PNAS_2024.pdf)
-
-Wat, E. K., Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Preston, J. L., Landi, N., Hoeft, F., Frost, S., Lau, A., Chen, G., Pugh, K., & Molfese, P. J. (2024). Will you read how I will read? Naturalistic fMRI predictors of emergent reading. *Neuropsychologia*, *193*, 108763. [[pdf]](https://thefinnlab.github.io/files/Wat_Finn_etal_Neuropsychologia2024.pdf)
+**O'Nell, K.**, & **Finn, E. S.** (2024). Pink noise in speakers' semantic synchrony dynamics as a metric of conversation quality. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. [[pdf]](https://thefinnlab.github.io/files/Katie_Emily_PAMCSS_2024.pdf)
 
 Iyer, S., Collier, E., Broom, T. W., **Finn, E. S.**, & Meyer, M. L. (2024). Individuals who see the good in the bad engage distinctive default network coordination during post-encoding rest. *Proceedings of the National Academy of Sciences*, *121*(1), e2306295121. [[pdf]](https://thefinnlab.github.io/files/Iyer_Finn_etal_PNAS2024.pdf)
 
-**O'Nell, K.**, & **Finn, E. S.** (2024). Pink noise in speakers' semantic synchrony dynamics as a metric of conversation quality. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. [[pdf]](https://thefinnlab.github.io/files/Katie_Emily_PAMCSS_2024.pdf)
+Kim, H., Lux, B.K., Lee, E., **Finn, E. S.**, & Woo, C. W. (2024). Brain decoding of spontaneous thought: Predictive modeling of self-relevance and valence using personal narratives. *Proceedings of the National Academy of Sciences*, *121*(14), e2401959121.  [[pdf]](https://thefinnlab.github.io/files/Kim_etal_PNAS_2024.pdf)
+
+Wat, E. K., Jangraw, D. C., **Finn, E. S.**, Bandettini, P. A., Preston, J. L., Landi, N., Hoeft, F., Frost, S., Lau, A., Chen, G., Pugh, K., & Molfese, P. J. (2024). Will you read how I will read? Naturalistic fMRI predictors of emergent reading. *Neuropsychologia*, *193*, 108763. [[pdf]](https://thefinnlab.github.io/files/Wat_Finn_etal_Neuropsychologia2024.pdf)
 
 2023
 ---
