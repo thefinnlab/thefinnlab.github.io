@@ -13,6 +13,8 @@ author_profile: true
 
 **Varrier, R. S.**, **Liang, Q.**, **Benson, T. G.**, Molfese, P. J., & **Finn, E. S.**. Subjective, not objective, socialness drives activity in the brain’s third visual pathway. *bioRxiv*, 2026-05. [[link]](https://www.biorxiv.org/content/10.64898/2026.05.28.728411v1)[[pdf]](https://thefinnlab.github.io/files/Varrier_Finn_biorxiv2026.pdf)
 
+**Sava-Segal, C. A.**, **Benson, T. G.**, & **Finn, E. S.**. Shifts in neural representations, not gaze, track how people reinterpret ambiguous social scenes. *bioRxiv*, 2026-10. [[link]](https://www.biorxiv.org/content/10.64898/2026.10.06.749912v1)[[pdf]](https://thefinnlab.github.io/files/Sava-Segal_Finn_biorxiv2026.pdf)
+
 
 ## Recent editorials
 
