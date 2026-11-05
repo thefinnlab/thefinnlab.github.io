@@ -11,7 +11,7 @@ author_profile: true
 
 **Liang, Q.**, **Su, Z.**, **Varrier, R. S.**, **Jolly, E.**, & **Finn, E. S.**. Agency boosts sensitivity to social interactions through active information seeking. *OSF*, 2026.03. [[link]](https://osf.io/preprints/psyarxiv/ufgkb_v1)[[pdf]](https://thefinnlab.github.io/files/Liang_Finn_osf2026.pdf)
 
-**Paris, Z.**, & **Finn, E. S.**. A Low-Rank Space Captures Linear Alignment Between LLM and Human Neural Activity During Naturalistic Language Listening. *arXiv preprint arXiv:2610.40511.* [[link]](https://arxiv.org/abs/2610.40511)[[pdf]](https://thefinnlab.github.io/files/Paris_Finn_arXiv2026.pdf)
+**Paris, Z. R.**, & **Finn, E. S.**. A Low-Rank Space Captures Linear Alignment Between LLM and Human Neural Activity During Naturalistic Language Listening. *arXiv preprint arXiv:2610.40511.* [[link]](https://arxiv.org/abs/2610.40511)[[pdf]](https://thefinnlab.github.io/files/Paris_Finn_arXiv2026.pdf)
 
 **Varrier, R. S.**, **Liang, Q.**, **Benson, T. G.**, Molfese, P. J., & **Finn, E. S.**. Subjective, not objective, socialness drives activity in the brain’s third visual pathway. *bioRxiv*, 2026-05. [[link]](https://www.biorxiv.org/content/10.64898/2026.05.28.728411v1)[[pdf]](https://thefinnlab.github.io/files/Varrier_Finn_biorxiv2026.pdf)
 
