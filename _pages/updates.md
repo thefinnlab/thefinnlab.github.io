@@ -5,6 +5,9 @@ permalink: /updates/
 author_profile: true
 ---
 
+## **November 2026**
+- PhD student Kathryn O'Nell & Dr. Emily Finn publish a paper in Science Advances!
+
 ## **September 2026**
 - The FINN Lab welcomes visiting PhD student, Jiun Choi!
 - The FINN Lab welcomes new postdoc, Dr. Gabriel Braun!
